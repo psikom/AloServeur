@@ -1,0 +1,35 @@
+<component name="ArtifactManager">
+  <artifact type="war" __external-system-id="Maven" name="SOA_project:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>SOA_project</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="SOA_project.war">
+      <element id="artifact" artifact-name="SOA_project:war exploded" />
+    </root>
+  </artifact>
+  <artifact type="exploded-war" __external-system-id="Maven" name="SOA_project:war exploded">
+    <output-path>$PROJECT_DIR$/target/SOA_project</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <exploded>true</exploded>
+        <module>SOA_project</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="SOA_project" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/target/SOA_project/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="SOA_project/web/Web" />
+    </root>
+  </artifact>
+</component>

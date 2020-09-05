@@ -1,0 +1,94 @@
+update
+intellij-idea-community
+ls
+cd Téléchargements
+sudo tra xvzf idea-IC-182.4892.20 -C /opt
+sudo tar xvzf idea-IC-182.4892.20 -C /opt
+sudo snap install intellij-idea-community --classic --edge
+cd ..
+sudo snap install intellij-idea-community-classic-edge
+sudo snap install intellij-idea-ultimate --classic --edge
+sudo snap install intellij-idea-ultimate-classic-edge
+-i
+sudo -i
+sudo apt install openjdk-11-jdk
+sudo add-apt-repository ppa:webupd8team/java
+sudo apt update
+sudo apt install oracle-java8-set-default
+java --version
+java -version
+ls
+cd Téléchargements
+sudo chown -R root:root /tmp/glassfish5
+sudo chown -R root:root glassfis
+sudo chown -R root:root glassfsh5
+ls
+sudo chown -R root:root /tmp/glassfish5
+sudo chown -R root:root glassfish5
+sudo mv glassfish5 /opt/
+echo "export PATH=$PATH:/opt/glassfish5/bin" >> ~/.bashrc
+sudo chown -R root:root ./glassfish5
+sudo mv ./glassfish5 /opt/
+cd ..
+cd /opt
+ls
+cd glassfish5
+ls
+echo "export PATH=$PATH:/opt/glassfish5/bin" >> ~/.bashrc
+ash
+bash
+which asadmin
+cd bin
+ls
+./asadmin start-domain
+./asadmin start-domain1
+./asadmin start-domain
+./asadmin start-domain domain1
+./asadmin start-domain domain
+ls
+cd asadmin
+
+asadmin stop-domain domain1
+asadmin start-domain domain1
+asadmin stop-domain domain1
+asadmin start-domain domain1
+asadmin start-domain 
+sudo -i
+sudo snap install intellij-idea-ultimate --classic --edge
+ls
+sudo add-apt-repository ppa:webupd8team/java -y
+cd /opt/
+sudo wget http://www-eu.apache.org/dist/maven/maven-3/3.5.3/binaries/apache-maven-3.5.3-bin.tar.gz
+sudo wget http://www-eu.apache.org/dist/maven/maven-3/3.5.4/binaries/apache-maven-3.5.4-bin.tar.gz
+sudo apt-get install maven
+mvn -v
+cd
+ls
+hatem
+snap install postman
+sudo apt install postman
+snap install postman
+update
+snap install postman
+ng --version
+sudo apt install nodejs
+sudo apt install npm
+nodejs-version
+nodejs --version
+npm --version
+sudo npm install -g @angular/cli
+ng -v
+ng --version
+sudo npm install -g @angular/cli
+sudo npm install -g swagger
+snap install postman
+ng --version
+ls
+cd /opt/glassfish5/bin
+asadmin start-domain
+sudo -i
+start
+start maven
+ms
+mv
+start mv

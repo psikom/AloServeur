@@ -1,0 +1,1127 @@
+2018-11-15 11:43:30,314 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2018-11-15 11:43:30,315 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /snap/intellij-idea-ultimate/92/lib/jps-launcher.jar:/usr/lib/jvm/java-8-oracle/lib/tools.jar:/snap/intellij-idea-ultimate/92/lib/optimizedFileManager.jar
+2018-11-15 11:43:30,673 [    359]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 341 ms
+2018-11-15 11:43:30,985 [    671]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /home/hatem/IdeaProjects/hatem1, global options path = /home/hatem/.IntelliJIdea2018.3/config/options
+2018-11-15 11:43:31,412 [   1098]   INFO - serialization.JpsProjectLoader - External project config dir is used: /home/hatem/.IntelliJIdea2018.3/system/external_build_system/hatem1.c355de5f/project
+2018-11-15 11:43:31,419 [   1105]   INFO - serialization.JpsProjectLoader - External project config dir is used for modules: /home/hatem/.IntelliJIdea2018.3/system/external_build_system/hatem1.c355de5f/modules
+2018-11-15 11:43:31,639 [   1325]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 654 ms
+2018-11-15 11:43:31,640 [   1326]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 2 libraries
+2018-11-15 11:43:31,821 [   1507]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-11-15 11:43:32,015 [   1701]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:true; isMake:false parallel compilation:false
+2018-11-15 11:43:32,030 [   1716]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled for JVM: true
+2018-11-15 11:43:32,030 [   1716]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled for JS: false
+2018-11-15 11:43:32,047 [   1733]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2018-11-15 11:43:32,047 [   1733]   INFO - kotlin.jps.build.KotlinBuilder - Label in local history: build started 7d1b4d0
+2018-11-15 11:43:32,060 [   1746]   INFO - s.index.CompilerReferenceIndex - backward reference index version differ due to: class java.io.FileNotFoundException
+2018-11-15 11:43:32,104 [   1790]   INFO - .incremental.IncProjectBuilder - Cleaned output directories in 11 ms
+2018-11-15 11:43:33,308 [   2994]   INFO - kotlin.jps.build.KotlinBuilder - KotlinTargetsIndex created in 1008 ms
+2018-11-15 11:43:33,312 [   2998]   INFO - kotlin.jps.build.KotlinBuilder - Total Kotlin global compile context initialization time: 1014 ms
+2018-11-15 11:43:33,323 [   3009]   INFO - s.incremental.java.JavaBuilder - Compiling 2 java files; module: hatem1
+2018-11-15 11:43:34,735 [   4421]   INFO - rains.jps.cmdline.BuildSession - Build duration: Builder 'Java' took 1 s 277 ms; 2 sources processed (638 ms per file)
+2018-11-15 11:43:34,739 [   4425]   INFO - s.incremental.java.JavaBuilder - javac 1.8.0_191 was used to compile [hatem1]
+2018-11-15 11:43:35,327 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2018-11-15 11:43:35,328 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /snap/intellij-idea-ultimate/92/lib/jps-launcher.jar:/usr/lib/jvm/java-8-oracle/lib/tools.jar:/snap/intellij-idea-ultimate/92/lib/optimizedFileManager.jar
+2018-11-15 11:43:35,806 [    479]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 451 ms
+2018-11-15 11:43:35,943 [    616]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /home/hatem/IdeaProjects/hatem1, global options path = /home/hatem/.IntelliJIdea2018.3/config/options
+2018-11-15 11:43:36,154 [    827]   INFO - serialization.JpsProjectLoader - External project config dir is used: /home/hatem/.IntelliJIdea2018.3/system/external_build_system/hatem1.c355de5f/project
+2018-11-15 11:43:36,161 [    834]   INFO - serialization.JpsProjectLoader - External project config dir is used for modules: /home/hatem/.IntelliJIdea2018.3/system/external_build_system/hatem1.c355de5f/modules
+2018-11-15 11:43:36,263 [    936]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 320 ms
+2018-11-15 11:43:36,263 [    936]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 2 libraries
+2018-11-15 11:43:36,389 [   1062]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-11-15 11:43:36,499 [   1172]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 1173 ms
+2018-11-15 11:43:36,563 [   1236]   INFO - etbrains.jps.cmdline.BuildMain - Build canceled, but no build session is running. Exiting.
+2018-11-15 15:30:05,666 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2018-11-15 15:30:05,667 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /snap/intellij-idea-ultimate/92/lib/jps-launcher.jar:/usr/lib/jvm/java-8-oracle/lib/tools.jar:/snap/intellij-idea-ultimate/92/lib/optimizedFileManager.jar
+2018-11-15 15:30:05,896 [    230]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 209 ms
+2018-11-15 15:30:06,085 [    419]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /home/hatem/IdeaProjects/Hospitalapp, global options path = /home/hatem/.IntelliJIdea2018.3/config/options
+2018-11-15 15:30:06,306 [    640]   INFO - serialization.JpsProjectLoader - External project config dir is used: /home/hatem/.IntelliJIdea2018.3/system/external_build_system/hospitalapp.c5dcd9d6/project
+2018-11-15 15:30:06,312 [    646]   INFO - serialization.JpsProjectLoader - External project config dir is used for modules: /home/hatem/.IntelliJIdea2018.3/system/external_build_system/hospitalapp.c5dcd9d6/modules
+2018-11-15 15:30:06,409 [    743]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 324 ms
+2018-11-15 15:30:06,409 [    743]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 2 libraries
+2018-11-15 15:30:06,558 [    892]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-11-15 15:30:06,676 [   1010]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:true; isMake:false parallel compilation:false
+2018-11-15 15:30:06,679 [   1013]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled for JVM: true
+2018-11-15 15:30:06,680 [   1014]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled for JS: false
+2018-11-15 15:30:06,685 [   1019]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2018-11-15 15:30:06,685 [   1019]   INFO - kotlin.jps.build.KotlinBuilder - Label in local history: build started 69a2b940
+2018-11-15 15:30:06,698 [   1032]   INFO - s.index.CompilerReferenceIndex - backward reference index version differ due to: class java.io.FileNotFoundException
+2018-11-15 15:30:06,734 [   1068]   INFO - .incremental.IncProjectBuilder - Cleaned output directories in 8 ms
+2018-11-15 15:30:07,639 [   1973]   INFO - kotlin.jps.build.KotlinBuilder - KotlinTargetsIndex created in 768 ms
+2018-11-15 15:30:07,643 [   1977]   INFO - kotlin.jps.build.KotlinBuilder - Total Kotlin global compile context initialization time: 774 ms
+2018-11-15 15:30:07,653 [   1987]   INFO - s.incremental.java.JavaBuilder - Compiling 6 java files; module: Hospitalapp
+2018-11-15 15:30:08,317 [   2651]   INFO - rains.jps.cmdline.BuildSession - Build duration: Builder 'Java' took 581 ms; 6 sources processed (96 ms per file)
+2018-11-15 15:30:08,323 [   2657]   INFO - s.incremental.java.JavaBuilder - javac 1.8.0_191 was used to compile [Hospitalapp]
+2018-11-15 15:30:09,156 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2018-11-15 15:30:09,156 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /snap/intellij-idea-ultimate/92/lib/jps-launcher.jar:/usr/lib/jvm/java-8-oracle/lib/tools.jar:/snap/intellij-idea-ultimate/92/lib/optimizedFileManager.jar
+2018-11-15 15:30:09,638 [    482]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 462 ms
+2018-11-15 15:30:09,847 [    691]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /home/hatem/IdeaProjects/Hospitalapp, global options path = /home/hatem/.IntelliJIdea2018.3/config/options
+2018-11-15 15:30:10,282 [   1126]   INFO - serialization.JpsProjectLoader - External project config dir is used: /home/hatem/.IntelliJIdea2018.3/system/external_build_system/hospitalapp.c5dcd9d6/project
+2018-11-15 15:30:10,293 [   1137]   INFO - serialization.JpsProjectLoader - External project config dir is used for modules: /home/hatem/.IntelliJIdea2018.3/system/external_build_system/hospitalapp.c5dcd9d6/modules
+2018-11-15 15:30:10,427 [   1271]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 580 ms
+2018-11-15 15:30:10,428 [   1272]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 2 libraries
+2018-11-15 15:30:10,655 [   1499]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-11-15 15:30:10,784 [   1628]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 1630 ms
+2018-11-15 15:30:10,873 [   1717]   INFO - etbrains.jps.cmdline.BuildMain - Build canceled, but no build session is running. Exiting.
+2018-11-15 15:59:20,980 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2018-11-15 15:59:20,981 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /snap/intellij-idea-ultimate/92/lib/jps-launcher.jar:/usr/lib/jvm/java-8-oracle/lib/tools.jar:/snap/intellij-idea-ultimate/92/lib/optimizedFileManager.jar
+2018-11-15 15:59:21,306 [    326]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 305 ms
+2018-11-15 15:59:21,439 [    459]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /home/hatem/IdeaProjects/HospitalClient, global options path = /home/hatem/.IntelliJIdea2018.3/config/options
+2018-11-15 15:59:21,651 [    671]   INFO - serialization.JpsProjectLoader - External project config dir is used: /home/hatem/.IntelliJIdea2018.3/system/external_build_system/hospitalclient.4c3e6816/project
+2018-11-15 15:59:21,658 [    678]   INFO - serialization.JpsProjectLoader - External project config dir is used for modules: /home/hatem/.IntelliJIdea2018.3/system/external_build_system/hospitalclient.4c3e6816/modules
+2018-11-15 15:59:21,761 [    781]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 322 ms
+2018-11-15 15:59:21,761 [    781]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 2 libraries
+2018-11-15 15:59:21,898 [    918]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-11-15 15:59:22,010 [   1030]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:true; isMake:false parallel compilation:false
+2018-11-15 15:59:22,014 [   1034]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled for JVM: true
+2018-11-15 15:59:22,015 [   1035]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled for JS: false
+2018-11-15 15:59:22,021 [   1041]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2018-11-15 15:59:22,022 [   1042]   INFO - kotlin.jps.build.KotlinBuilder - Label in local history: build started b2243b71
+2018-11-15 15:59:22,033 [   1053]   INFO - s.index.CompilerReferenceIndex - backward reference index version differ due to: class java.io.FileNotFoundException
+2018-11-15 15:59:22,075 [   1095]   INFO - .incremental.IncProjectBuilder - Cleaned output directories in 9 ms
+2018-11-15 15:59:22,982 [   2002]   INFO - kotlin.jps.build.KotlinBuilder - KotlinTargetsIndex created in 782 ms
+2018-11-15 15:59:22,987 [   2007]   INFO - kotlin.jps.build.KotlinBuilder - Total Kotlin global compile context initialization time: 790 ms
+2018-11-15 15:59:23,000 [   2020]   INFO - s.incremental.java.JavaBuilder - Compiling 17 java files; module: HospitalClient
+2018-11-15 15:59:23,851 [   2871]   INFO - rains.jps.cmdline.BuildSession - Build duration: Builder 'Java' took 747 ms; 17 sources processed (43 ms per file)
+2018-11-15 15:59:23,857 [   2877]   INFO - s.incremental.java.JavaBuilder - javac 1.8.0_191 was used to compile [HospitalClient]
+2018-11-15 15:59:24,771 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2018-11-15 15:59:24,772 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /snap/intellij-idea-ultimate/92/lib/jps-launcher.jar:/usr/lib/jvm/java-8-oracle/lib/tools.jar:/snap/intellij-idea-ultimate/92/lib/optimizedFileManager.jar
+2018-11-15 15:59:25,242 [    471]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 428 ms
+2018-11-15 15:59:25,340 [    569]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /home/hatem/IdeaProjects/HospitalClient, global options path = /home/hatem/.IntelliJIdea2018.3/config/options
+2018-11-15 15:59:25,548 [    777]   INFO - serialization.JpsProjectLoader - External project config dir is used: /home/hatem/.IntelliJIdea2018.3/system/external_build_system/hospitalclient.4c3e6816/project
+2018-11-15 15:59:25,557 [    786]   INFO - serialization.JpsProjectLoader - External project config dir is used for modules: /home/hatem/.IntelliJIdea2018.3/system/external_build_system/hospitalclient.4c3e6816/modules
+2018-11-15 15:59:25,656 [    885]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 316 ms
+2018-11-15 15:59:25,656 [    885]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 2 libraries
+2018-11-15 15:59:25,777 [   1006]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-11-15 15:59:25,895 [   1124]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 1130 ms
+2018-11-15 15:59:25,993 [   1222]   INFO - etbrains.jps.cmdline.BuildMain - Build canceled, but no build session is running. Exiting.
+2018-11-15 17:01:09,456 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2018-11-15 17:01:09,703 [    247]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /snap/intellij-idea-ultimate/92/lib/jps-launcher.jar:/usr/lib/jvm/java-8-oracle/lib/tools.jar:/snap/intellij-idea-ultimate/92/lib/optimizedFileManager.jar
+2018-11-15 17:01:10,054 [    598]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 312 ms
+2018-11-15 17:01:10,224 [    768]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /home/hatem/IdeaProjects/HospitalClient, global options path = /home/hatem/.IntelliJIdea2018.3/config/options
+2018-11-15 17:01:10,485 [   1029]   INFO - serialization.JpsProjectLoader - External project config dir is used: /home/hatem/.IntelliJIdea2018.3/system/external_build_system/hospitalclient.4c3e6816/project
+2018-11-15 17:01:10,491 [   1035]   INFO - serialization.JpsProjectLoader - External project config dir is used for modules: /home/hatem/.IntelliJIdea2018.3/system/external_build_system/hospitalclient.4c3e6816/modules
+2018-11-15 17:01:10,613 [   1157]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 388 ms
+2018-11-15 17:01:10,613 [   1157]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 2 libraries
+2018-11-15 17:01:10,840 [   1384]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-11-15 17:01:10,957 [   1501]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2018-11-15 17:01:10,960 [   1504]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled for JVM: true
+2018-11-15 17:01:10,960 [   1504]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled for JS: false
+2018-11-15 17:01:10,965 [   1509]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2018-11-15 17:01:10,965 [   1509]   INFO - kotlin.jps.build.KotlinBuilder - Label in local history: build started 6f2ba468
+2018-11-15 17:01:11,062 [   1606]   INFO - .incremental.IncProjectBuilder - Cleaned output directories in 4 ms
+2018-11-15 17:01:12,091 [   2635]   INFO - kotlin.jps.build.KotlinBuilder - KotlinTargetsIndex created in 791 ms
+2018-11-15 17:01:12,113 [   2657]   INFO - kotlin.jps.build.KotlinBuilder - Total Kotlin global compile context initialization time: 815 ms
+2018-11-15 17:01:12,131 [   2675]   INFO - s.incremental.java.JavaBuilder - Compiling 1 java files; module: HospitalClient
+2018-11-15 17:01:12,694 [   3238]   INFO - brains.jps.incremental.Builder - Dependency analysis found 0 affected files
+2018-11-15 17:01:12,741 [   3285]   INFO - rains.jps.cmdline.BuildSession - Build duration: Builder 'Java' took 539 ms; 1 sources processed (539 ms per file)
+2018-11-15 17:01:12,745 [   3289]   INFO - s.incremental.java.JavaBuilder - javac 1.8.0_191 was used to compile [HospitalClient]
+2018-11-15 17:01:13,549 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2018-11-15 17:01:13,549 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /snap/intellij-idea-ultimate/92/lib/jps-launcher.jar:/usr/lib/jvm/java-8-oracle/lib/tools.jar:/snap/intellij-idea-ultimate/92/lib/optimizedFileManager.jar
+2018-11-15 17:01:13,927 [    378]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 357 ms
+2018-11-15 17:01:14,089 [    540]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /home/hatem/IdeaProjects/HospitalClient, global options path = /home/hatem/.IntelliJIdea2018.3/config/options
+2018-11-15 17:01:14,340 [    791]   INFO - serialization.JpsProjectLoader - External project config dir is used: /home/hatem/.IntelliJIdea2018.3/system/external_build_system/hospitalclient.4c3e6816/project
+2018-11-15 17:01:14,349 [    800]   INFO - serialization.JpsProjectLoader - External project config dir is used for modules: /home/hatem/.IntelliJIdea2018.3/system/external_build_system/hospitalclient.4c3e6816/modules
+2018-11-15 17:01:14,460 [    911]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 372 ms
+2018-11-15 17:01:14,460 [    911]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 2 libraries
+2018-11-15 17:01:14,579 [   1030]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-11-15 17:01:14,695 [   1146]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 1148 ms
+2018-11-29 15:16:27,881 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2018-11-29 15:16:27,894 [     13]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /snap/intellij-idea-ultimate/95/lib/jps-launcher.jar:/usr/lib/jvm/java-8-oracle/lib/tools.jar:/snap/intellij-idea-ultimate/95/lib/optimizedFileManager.jar
+2018-11-29 15:16:29,468 [   1587]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 1423 ms
+2018-11-29 15:16:30,235 [   2354]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /home/hatem/IdeaProjects/Hospitalapp, global options path = /home/hatem/.IntelliJIdea2018.3/config/options
+2018-11-29 15:16:31,215 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2018-11-29 15:16:31,216 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /snap/intellij-idea-ultimate/95/lib/jps-launcher.jar:/usr/lib/jvm/java-8-oracle/lib/tools.jar:/snap/intellij-idea-ultimate/95/lib/optimizedFileManager.jar
+2018-11-29 15:16:31,520 [   3639]   INFO - serialization.JpsProjectLoader - External project config dir is used: /home/hatem/.IntelliJIdea2018.3/system/external_build_system/hospitalapp.c5dcd9d6/project
+2018-11-29 15:16:31,529 [   3648]   INFO - serialization.JpsProjectLoader - External project config dir is used for modules: /home/hatem/.IntelliJIdea2018.3/system/external_build_system/hospitalapp.c5dcd9d6/modules
+2018-11-29 15:16:32,103 [   4222]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 1868 ms
+2018-11-29 15:16:32,103 [   4222]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 2 libraries
+2018-11-29 15:16:32,204 [    989]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 915 ms
+2018-11-29 15:16:32,613 [   1398]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /home/hatem/IdeaProjects/HospitalClient, global options path = /home/hatem/.IntelliJIdea2018.3/config/options
+2018-11-29 15:16:32,747 [   4866]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-11-29 15:16:33,264 [   2049]   INFO - serialization.JpsProjectLoader - External project config dir is used: /home/hatem/.IntelliJIdea2018.3/system/external_build_system/hospitalclient.4c3e6816/project
+2018-11-29 15:16:33,317 [   2102]   INFO - serialization.JpsProjectLoader - External project config dir is used for modules: /home/hatem/.IntelliJIdea2018.3/system/external_build_system/hospitalclient.4c3e6816/modules
+2018-11-29 15:16:33,837 [   2622]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 1224 ms
+2018-11-29 15:16:33,837 [   2622]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 2 libraries
+2018-11-29 15:16:34,331 [   3116]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-11-29 15:16:35,092 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2018-11-29 15:16:35,098 [      6]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /snap/intellij-idea-ultimate/95/lib/jps-launcher.jar:/usr/lib/jvm/java-8-oracle/lib/tools.jar:/snap/intellij-idea-ultimate/95/lib/optimizedFileManager.jar
+2018-11-29 15:16:35,707 [    615]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 540 ms
+2018-11-29 15:16:36,170 [   1078]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /home/hatem/IdeaProjects/Hospitalapp, global options path = /home/hatem/.IntelliJIdea2018.3/config/options
+2018-11-29 15:16:36,955 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2018-11-29 15:16:36,956 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /snap/intellij-idea-ultimate/95/lib/jps-launcher.jar:/usr/lib/jvm/java-8-oracle/lib/tools.jar:/snap/intellij-idea-ultimate/95/lib/optimizedFileManager.jar
+2018-11-29 15:16:37,071 [   1979]   INFO - serialization.JpsProjectLoader - External project config dir is used: /home/hatem/.IntelliJIdea2018.3/system/external_build_system/hospitalapp.c5dcd9d6/project
+2018-11-29 15:16:37,084 [   1992]   INFO - serialization.JpsProjectLoader - External project config dir is used for modules: /home/hatem/.IntelliJIdea2018.3/system/external_build_system/hospitalapp.c5dcd9d6/modules
+2018-11-29 15:16:37,438 [   2346]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 1268 ms
+2018-11-29 15:16:37,439 [   2347]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 2 libraries
+2018-11-29 15:16:37,797 [   2705]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-11-29 15:16:37,830 [    875]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 769 ms
+2018-11-29 15:16:38,117 [   1162]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /home/hatem/IdeaProjects/HospitalClient, global options path = /home/hatem/.IntelliJIdea2018.3/config/options
+2018-11-29 15:16:38,317 [   3225]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 3233 ms
+2018-11-29 15:16:38,752 [   1797]   INFO - serialization.JpsProjectLoader - External project config dir is used: /home/hatem/.IntelliJIdea2018.3/system/external_build_system/hospitalclient.4c3e6816/project
+2018-11-29 15:16:38,787 [   1832]   INFO - serialization.JpsProjectLoader - External project config dir is used for modules: /home/hatem/.IntelliJIdea2018.3/system/external_build_system/hospitalclient.4c3e6816/modules
+2018-11-29 15:16:39,140 [   2185]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 1023 ms
+2018-11-29 15:16:39,141 [   2186]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 2 libraries
+2018-11-29 15:16:39,790 [   2835]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-11-29 15:16:40,189 [   3234]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 3235 ms
+2018-11-29 15:19:09,300 [ 154208]   INFO - etbrains.jps.cmdline.BuildMain - Build canceled, but no build session is running. Exiting.
+2018-11-29 15:28:02,963 [ 686008]   INFO - etbrains.jps.cmdline.BuildMain - Build canceled, but no build session is running. Exiting.
+2018-12-26 00:10:43,642 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2018-12-26 00:10:43,720 [     78]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /snap/intellij-idea-ultimate/107/lib/jps-launcher.jar:/usr/lib/jvm/java-8-oracle/lib/tools.jar:/snap/intellij-idea-ultimate/107/lib/optimizedFileManager.jar
+2018-12-26 00:10:44,405 [    763]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 608 ms
+2018-12-26 00:10:44,874 [   1232]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /home/hatem/Bureau/SOA_project, global options path = /home/hatem/.IntelliJIdea2018.3/config/options
+2018-12-26 00:10:45,570 [   1928]   INFO - serialization.JpsProjectLoader - External project config dir is used: /home/hatem/.IntelliJIdea2018.3/system/external_build_system/soa_project.c1168eb7/project
+2018-12-26 00:10:45,577 [   1935]   INFO - serialization.JpsProjectLoader - External project config dir is used for modules: /home/hatem/.IntelliJIdea2018.3/system/external_build_system/soa_project.c1168eb7/modules
+2018-12-26 00:10:45,771 [   2129]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 897 ms
+2018-12-26 00:10:45,771 [   2129]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 2 libraries
+2018-12-26 00:10:46,007 [   2365]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-12-26 00:10:46,191 [   2549]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:true; isMake:false parallel compilation:false
+2018-12-26 00:10:46,195 [   2553]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled for JVM: true
+2018-12-26 00:10:46,195 [   2553]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled for JS: false
+2018-12-26 00:10:46,236 [   2594]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2018-12-26 00:10:46,236 [   2594]   INFO - kotlin.jps.build.KotlinBuilder - Label in local history: build started a2d1c2b
+2018-12-26 00:10:46,253 [   2611]   INFO - s.index.CompilerReferenceIndex - backward reference index version differ due to: class java.io.FileNotFoundException
+2018-12-26 00:10:46,349 [   2707]   INFO - .incremental.IncProjectBuilder - Cleaned output directories in 5 ms
+2018-12-26 00:10:47,393 [   3751]   INFO - kotlin.jps.build.KotlinBuilder - KotlinTargetsIndex created in 888 ms
+2018-12-26 00:10:47,398 [   3756]   INFO - kotlin.jps.build.KotlinBuilder - Total Kotlin global compile context initialization time: 895 ms
+2018-12-26 00:10:47,410 [   3768]   INFO - s.incremental.java.JavaBuilder - Compiling 2 java files; module: SOA_project
+2018-12-26 00:10:48,776 [   5134]   INFO - rains.jps.cmdline.BuildSession - Build duration: Builder 'Java' took 1 s 149 ms; 2 sources processed (574 ms per file)
+2018-12-26 00:10:48,781 [   5139]   INFO - s.incremental.java.JavaBuilder - javac 1.8.0_191 was used to compile [SOA_project]
+2018-12-26 00:10:49,188 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2018-12-26 00:10:49,188 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /snap/intellij-idea-ultimate/107/lib/jps-launcher.jar:/usr/lib/jvm/java-8-oracle/lib/tools.jar:/snap/intellij-idea-ultimate/107/lib/optimizedFileManager.jar
+2018-12-26 00:10:49,630 [    442]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 420 ms
+2018-12-26 00:10:49,865 [    677]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /home/hatem/Bureau/SOA_project, global options path = /home/hatem/.IntelliJIdea2018.3/config/options
+2018-12-26 00:10:50,273 [   1085]   INFO - serialization.JpsProjectLoader - External project config dir is used: /home/hatem/.IntelliJIdea2018.3/system/external_build_system/soa_project.c1168eb7/project
+2018-12-26 00:10:50,279 [   1091]   INFO - serialization.JpsProjectLoader - External project config dir is used for modules: /home/hatem/.IntelliJIdea2018.3/system/external_build_system/soa_project.c1168eb7/modules
+2018-12-26 00:10:50,405 [   1217]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 540 ms
+2018-12-26 00:10:50,406 [   1218]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 2 libraries
+2018-12-26 00:10:50,600 [   1412]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-12-26 00:10:50,755 [   1567]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 1569 ms
+2018-12-26 00:10:50,848 [   1660]   INFO - etbrains.jps.cmdline.BuildMain - Build canceled, but no build session is running. Exiting.
+2018-12-26 00:11:34,952 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2018-12-26 00:11:34,953 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /snap/intellij-idea-ultimate/107/lib/jps-launcher.jar:/usr/lib/jvm/java-8-oracle/lib/tools.jar:/snap/intellij-idea-ultimate/107/lib/optimizedFileManager.jar
+2018-12-26 00:11:35,221 [    269]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 245 ms
+2018-12-26 00:11:35,365 [    413]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /home/hatem/Bureau/SOA_project, global options path = /home/hatem/.IntelliJIdea2018.3/config/options
+2018-12-26 00:11:35,585 [    633]   INFO - serialization.JpsProjectLoader - External project config dir is used: /home/hatem/.IntelliJIdea2018.3/system/external_build_system/soa_project.c1168eb7/project
+2018-12-26 00:11:35,591 [    639]   INFO - serialization.JpsProjectLoader - External project config dir is used for modules: /home/hatem/.IntelliJIdea2018.3/system/external_build_system/soa_project.c1168eb7/modules
+2018-12-26 00:11:35,692 [    740]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 327 ms
+2018-12-26 00:11:35,692 [    740]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 2 libraries
+2018-12-26 00:11:35,822 [    870]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-12-26 00:11:35,927 [    975]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2018-12-26 00:11:35,931 [    979]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled for JVM: true
+2018-12-26 00:11:35,931 [    979]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled for JS: false
+2018-12-26 00:11:35,936 [    984]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2018-12-26 00:11:35,936 [    984]   INFO - kotlin.jps.build.KotlinBuilder - Label in local history: build started 2e28fa82
+2018-12-26 00:11:36,003 [   1051]   INFO - .incremental.IncProjectBuilder - Cleaned output directories in 4 ms
+2018-12-26 00:11:36,932 [   1980]   INFO - kotlin.jps.build.KotlinBuilder - KotlinTargetsIndex created in 790 ms
+2018-12-26 00:11:36,939 [   1987]   INFO - kotlin.jps.build.KotlinBuilder - Total Kotlin global compile context initialization time: 800 ms
+2018-12-26 00:11:37,307 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2018-12-26 00:11:37,307 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /snap/intellij-idea-ultimate/107/lib/jps-launcher.jar:/usr/lib/jvm/java-8-oracle/lib/tools.jar:/snap/intellij-idea-ultimate/107/lib/optimizedFileManager.jar
+2018-12-26 00:11:37,562 [    255]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 238 ms
+2018-12-26 00:11:37,649 [    342]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /home/hatem/Bureau/SOA_project, global options path = /home/hatem/.IntelliJIdea2018.3/config/options
+2018-12-26 00:11:37,865 [    558]   INFO - serialization.JpsProjectLoader - External project config dir is used: /home/hatem/.IntelliJIdea2018.3/system/external_build_system/soa_project.c1168eb7/project
+2018-12-26 00:11:37,871 [    564]   INFO - serialization.JpsProjectLoader - External project config dir is used for modules: /home/hatem/.IntelliJIdea2018.3/system/external_build_system/soa_project.c1168eb7/modules
+2018-12-26 00:11:37,981 [    674]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 333 ms
+2018-12-26 00:11:37,982 [    675]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 2 libraries
+2018-12-26 00:11:38,121 [    814]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-12-26 00:11:38,233 [    926]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 927 ms
+2018-12-26 00:12:09,523 [  32216]   INFO - rains.jps.cmdline.BuildSession - No changes found since last build. Exiting.
+2018-12-26 00:12:09,823 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2018-12-26 00:12:09,824 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /snap/intellij-idea-ultimate/107/lib/jps-launcher.jar:/usr/lib/jvm/java-8-oracle/lib/tools.jar:/snap/intellij-idea-ultimate/107/lib/optimizedFileManager.jar
+2018-12-26 00:12:10,159 [    336]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 308 ms
+2018-12-26 00:12:10,263 [    440]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /home/hatem/Bureau/SOA_project, global options path = /home/hatem/.IntelliJIdea2018.3/config/options
+2018-12-26 00:12:10,709 [    886]   INFO - serialization.JpsProjectLoader - External project config dir is used: /home/hatem/.IntelliJIdea2018.3/system/external_build_system/soa_project.c1168eb7/project
+2018-12-26 00:12:10,734 [    911]   INFO - serialization.JpsProjectLoader - External project config dir is used for modules: /home/hatem/.IntelliJIdea2018.3/system/external_build_system/soa_project.c1168eb7/modules
+2018-12-26 00:12:10,991 [   1168]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 728 ms
+2018-12-26 00:12:10,991 [   1168]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 2 libraries
+2018-12-26 00:12:11,228 [   1405]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-12-26 00:12:11,355 [   1532]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 1536 ms
+2018-12-26 00:12:28,643 [  18820]   INFO - rains.jps.cmdline.BuildSession - No changes found since last build. Exiting.
+2018-12-26 00:12:29,032 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2018-12-26 00:12:29,033 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /snap/intellij-idea-ultimate/107/lib/jps-launcher.jar:/usr/lib/jvm/java-8-oracle/lib/tools.jar:/snap/intellij-idea-ultimate/107/lib/optimizedFileManager.jar
+2018-12-26 00:12:29,298 [    266]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 247 ms
+2018-12-26 00:12:29,382 [    350]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /home/hatem/Bureau/SOA_project, global options path = /home/hatem/.IntelliJIdea2018.3/config/options
+2018-12-26 00:12:29,605 [    573]   INFO - serialization.JpsProjectLoader - External project config dir is used: /home/hatem/.IntelliJIdea2018.3/system/external_build_system/soa_project.c1168eb7/project
+2018-12-26 00:12:29,611 [    579]   INFO - serialization.JpsProjectLoader - External project config dir is used for modules: /home/hatem/.IntelliJIdea2018.3/system/external_build_system/soa_project.c1168eb7/modules
+2018-12-26 00:12:29,713 [    681]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 331 ms
+2018-12-26 00:12:29,713 [    681]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 2 libraries
+2018-12-26 00:12:29,838 [    806]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-12-26 00:12:29,953 [    921]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 922 ms
+2018-12-26 00:12:31,995 [   2963]   INFO - rains.jps.cmdline.BuildSession - No changes found since last build. Exiting.
+2018-12-26 00:12:32,478 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2018-12-26 00:12:32,478 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /snap/intellij-idea-ultimate/107/lib/jps-launcher.jar:/usr/lib/jvm/java-8-oracle/lib/tools.jar:/snap/intellij-idea-ultimate/107/lib/optimizedFileManager.jar
+2018-12-26 00:12:32,724 [    246]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 224 ms
+2018-12-26 00:12:32,808 [    330]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /home/hatem/Bureau/SOA_project, global options path = /home/hatem/.IntelliJIdea2018.3/config/options
+2018-12-26 00:12:33,033 [    555]   INFO - serialization.JpsProjectLoader - External project config dir is used: /home/hatem/.IntelliJIdea2018.3/system/external_build_system/soa_project.c1168eb7/project
+2018-12-26 00:12:33,039 [    561]   INFO - serialization.JpsProjectLoader - External project config dir is used for modules: /home/hatem/.IntelliJIdea2018.3/system/external_build_system/soa_project.c1168eb7/modules
+2018-12-26 00:12:33,147 [    669]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 339 ms
+2018-12-26 00:12:33,147 [    669]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 2 libraries
+2018-12-26 00:12:33,312 [    834]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-12-26 00:12:33,428 [    950]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 952 ms
+2018-12-26 00:12:35,821 [   3343]   INFO - rains.jps.cmdline.BuildSession - No changes found since last build. Exiting.
+2018-12-26 00:12:36,246 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2018-12-26 00:12:36,247 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /snap/intellij-idea-ultimate/107/lib/jps-launcher.jar:/usr/lib/jvm/java-8-oracle/lib/tools.jar:/snap/intellij-idea-ultimate/107/lib/optimizedFileManager.jar
+2018-12-26 00:12:36,503 [    257]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 235 ms
+2018-12-26 00:12:36,582 [    336]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /home/hatem/Bureau/SOA_project, global options path = /home/hatem/.IntelliJIdea2018.3/config/options
+2018-12-26 00:12:36,912 [    666]   INFO - serialization.JpsProjectLoader - External project config dir is used: /home/hatem/.IntelliJIdea2018.3/system/external_build_system/soa_project.c1168eb7/project
+2018-12-26 00:12:36,921 [    675]   INFO - serialization.JpsProjectLoader - External project config dir is used for modules: /home/hatem/.IntelliJIdea2018.3/system/external_build_system/soa_project.c1168eb7/modules
+2018-12-26 00:12:37,132 [    886]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 550 ms
+2018-12-26 00:12:37,132 [    886]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 2 libraries
+2018-12-26 00:12:37,451 [   1205]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-12-26 00:12:37,571 [   1325]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 1327 ms
+2018-12-26 00:13:11,078 [  34832]   INFO - rains.jps.cmdline.BuildSession - No changes found since last build. Exiting.
+2018-12-26 00:13:11,460 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2018-12-26 00:13:11,461 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /snap/intellij-idea-ultimate/107/lib/jps-launcher.jar:/usr/lib/jvm/java-8-oracle/lib/tools.jar:/snap/intellij-idea-ultimate/107/lib/optimizedFileManager.jar
+2018-12-26 00:13:11,699 [    239]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 216 ms
+2018-12-26 00:13:11,779 [    319]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /home/hatem/Bureau/SOA_project, global options path = /home/hatem/.IntelliJIdea2018.3/config/options
+2018-12-26 00:13:12,000 [    540]   INFO - serialization.JpsProjectLoader - External project config dir is used: /home/hatem/.IntelliJIdea2018.3/system/external_build_system/soa_project.c1168eb7/project
+2018-12-26 00:13:12,006 [    546]   INFO - serialization.JpsProjectLoader - External project config dir is used for modules: /home/hatem/.IntelliJIdea2018.3/system/external_build_system/soa_project.c1168eb7/modules
+2018-12-26 00:13:12,113 [    653]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 334 ms
+2018-12-26 00:13:12,113 [    653]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 2 libraries
+2018-12-26 00:13:12,239 [    779]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-12-26 00:13:12,335 [    875]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 877 ms
+2018-12-26 00:13:21,379 [   9919]   INFO - rains.jps.cmdline.BuildSession - No changes found since last build. Exiting.
+2018-12-26 00:13:21,700 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2018-12-26 00:13:21,701 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /snap/intellij-idea-ultimate/107/lib/jps-launcher.jar:/usr/lib/jvm/java-8-oracle/lib/tools.jar:/snap/intellij-idea-ultimate/107/lib/optimizedFileManager.jar
+2018-12-26 00:13:21,939 [    239]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 216 ms
+2018-12-26 00:13:22,015 [    315]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /home/hatem/Bureau/SOA_project, global options path = /home/hatem/.IntelliJIdea2018.3/config/options
+2018-12-26 00:13:22,240 [    540]   INFO - serialization.JpsProjectLoader - External project config dir is used: /home/hatem/.IntelliJIdea2018.3/system/external_build_system/soa_project.c1168eb7/project
+2018-12-26 00:13:22,246 [    546]   INFO - serialization.JpsProjectLoader - External project config dir is used for modules: /home/hatem/.IntelliJIdea2018.3/system/external_build_system/soa_project.c1168eb7/modules
+2018-12-26 00:13:22,350 [    650]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 335 ms
+2018-12-26 00:13:22,350 [    650]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 2 libraries
+2018-12-26 00:13:22,483 [    783]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-12-26 00:13:22,595 [    895]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 897 ms
+2018-12-26 00:13:31,469 [   9769]   INFO - rains.jps.cmdline.BuildSession - No changes found since last build. Exiting.
+2018-12-26 00:13:31,857 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2018-12-26 00:13:31,858 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /snap/intellij-idea-ultimate/107/lib/jps-launcher.jar:/usr/lib/jvm/java-8-oracle/lib/tools.jar:/snap/intellij-idea-ultimate/107/lib/optimizedFileManager.jar
+2018-12-26 00:13:32,133 [    276]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 253 ms
+2018-12-26 00:13:32,327 [    470]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /home/hatem/Bureau/SOA_project, global options path = /home/hatem/.IntelliJIdea2018.3/config/options
+2018-12-26 00:13:32,669 [    812]   INFO - serialization.JpsProjectLoader - External project config dir is used: /home/hatem/.IntelliJIdea2018.3/system/external_build_system/soa_project.c1168eb7/project
+2018-12-26 00:13:32,682 [    825]   INFO - serialization.JpsProjectLoader - External project config dir is used for modules: /home/hatem/.IntelliJIdea2018.3/system/external_build_system/soa_project.c1168eb7/modules
+2018-12-26 00:13:32,787 [    930]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 460 ms
+2018-12-26 00:13:32,787 [    930]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 2 libraries
+2018-12-26 00:13:32,924 [   1067]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-12-26 00:13:33,019 [   1162]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 1163 ms
+2018-12-26 00:15:39,563 [ 127706]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2018-12-26 00:15:39,566 [ 127709]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled for JVM: true
+2018-12-26 00:15:39,566 [ 127709]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled for JS: false
+2018-12-26 00:15:39,599 [ 127742]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2018-12-26 00:15:39,600 [ 127743]   INFO - kotlin.jps.build.KotlinBuilder - Label in local history: build started 8837841b
+2018-12-26 00:15:39,649 [ 127792]   INFO - .incremental.IncProjectBuilder - Cleaned output directories in 2 ms
+2018-12-26 00:15:40,266 [ 128409]   INFO - kotlin.jps.build.KotlinBuilder - KotlinTargetsIndex created in 583 ms
+2018-12-26 00:15:40,272 [ 128415]   INFO - kotlin.jps.build.KotlinBuilder - Total Kotlin global compile context initialization time: 590 ms
+2018-12-26 00:15:40,585 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2018-12-26 00:15:40,586 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /snap/intellij-idea-ultimate/107/lib/jps-launcher.jar:/usr/lib/jvm/java-8-oracle/lib/tools.jar:/snap/intellij-idea-ultimate/107/lib/optimizedFileManager.jar
+2018-12-26 00:15:40,818 [    233]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 212 ms
+2018-12-26 00:15:40,893 [    308]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /home/hatem/Bureau/SOA_project, global options path = /home/hatem/.IntelliJIdea2018.3/config/options
+2018-12-26 00:15:41,125 [    540]   INFO - serialization.JpsProjectLoader - External project config dir is used: /home/hatem/.IntelliJIdea2018.3/system/external_build_system/soa_project.c1168eb7/project
+2018-12-26 00:15:41,132 [    547]   INFO - serialization.JpsProjectLoader - External project config dir is used for modules: /home/hatem/.IntelliJIdea2018.3/system/external_build_system/soa_project.c1168eb7/modules
+2018-12-26 00:15:41,244 [    659]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 351 ms
+2018-12-26 00:15:41,244 [    659]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 2 libraries
+2018-12-26 00:15:41,375 [    790]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-12-26 00:15:41,484 [    899]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 901 ms
+2018-12-26 00:16:07,463 [  26878]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2018-12-26 00:16:07,466 [  26881]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled for JVM: true
+2018-12-26 00:16:07,466 [  26881]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled for JS: false
+2018-12-26 00:16:07,503 [  26918]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2018-12-26 00:16:07,503 [  26918]   INFO - kotlin.jps.build.KotlinBuilder - Label in local history: build started 29deb07b
+2018-12-26 00:16:07,547 [  26962]   INFO - .incremental.IncProjectBuilder - Cleaned output directories in 2 ms
+2018-12-26 00:16:08,140 [  27555]   INFO - kotlin.jps.build.KotlinBuilder - KotlinTargetsIndex created in 560 ms
+2018-12-26 00:16:08,146 [  27561]   INFO - kotlin.jps.build.KotlinBuilder - Total Kotlin global compile context initialization time: 568 ms
+2018-12-26 00:16:08,832 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2018-12-26 00:16:08,833 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /snap/intellij-idea-ultimate/107/lib/jps-launcher.jar:/usr/lib/jvm/java-8-oracle/lib/tools.jar:/snap/intellij-idea-ultimate/107/lib/optimizedFileManager.jar
+2018-12-26 00:16:09,117 [    285]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 263 ms
+2018-12-26 00:16:09,203 [    371]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /home/hatem/Bureau/SOA_project, global options path = /home/hatem/.IntelliJIdea2018.3/config/options
+2018-12-26 00:16:09,447 [    615]   INFO - serialization.JpsProjectLoader - External project config dir is used: /home/hatem/.IntelliJIdea2018.3/system/external_build_system/soa_project.c1168eb7/project
+2018-12-26 00:16:09,454 [    622]   INFO - serialization.JpsProjectLoader - External project config dir is used for modules: /home/hatem/.IntelliJIdea2018.3/system/external_build_system/soa_project.c1168eb7/modules
+2018-12-26 00:16:09,631 [    799]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 428 ms
+2018-12-26 00:16:09,631 [    799]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 2 libraries
+2018-12-26 00:16:09,817 [    985]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-12-26 00:16:09,935 [   1103]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 1105 ms
+2018-12-26 00:16:36,798 [  27966]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2018-12-26 00:16:36,803 [  27971]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled for JVM: true
+2018-12-26 00:16:36,804 [  27972]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled for JS: false
+2018-12-26 00:16:36,811 [  27979]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2018-12-26 00:16:36,811 [  27979]   INFO - kotlin.jps.build.KotlinBuilder - Label in local history: build started ba05ab66
+2018-12-26 00:16:36,920 [  28088]   INFO - .incremental.IncProjectBuilder - Cleaned output directories in 6 ms
+2018-12-26 00:16:37,806 [  28974]   INFO - kotlin.jps.build.KotlinBuilder - KotlinTargetsIndex created in 808 ms
+2018-12-26 00:16:37,813 [  28981]   INFO - kotlin.jps.build.KotlinBuilder - Total Kotlin global compile context initialization time: 818 ms
+2018-12-26 00:16:37,827 [  28995]   INFO - s.incremental.java.JavaBuilder - Compiling 1 java files; module: SOA_project
+2018-12-26 00:16:38,338 [  29506]   INFO - brains.jps.incremental.Builder - Dependency analysis found 0 affected files
+2018-12-26 00:16:38,399 [  29567]   INFO - rains.jps.cmdline.BuildSession - Build duration: Builder 'Java' took 490 ms; 1 sources processed (490 ms per file)
+2018-12-26 00:16:38,406 [  29574]   INFO - s.incremental.java.JavaBuilder - javac 1.8.0_191 was used to compile [SOA_project]
+2018-12-26 00:16:39,050 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2018-12-26 00:16:39,051 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /snap/intellij-idea-ultimate/107/lib/jps-launcher.jar:/usr/lib/jvm/java-8-oracle/lib/tools.jar:/snap/intellij-idea-ultimate/107/lib/optimizedFileManager.jar
+2018-12-26 00:16:39,306 [    256]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 238 ms
+2018-12-26 00:16:39,384 [    334]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /home/hatem/Bureau/SOA_project, global options path = /home/hatem/.IntelliJIdea2018.3/config/options
+2018-12-26 00:16:39,627 [    577]   INFO - serialization.JpsProjectLoader - External project config dir is used: /home/hatem/.IntelliJIdea2018.3/system/external_build_system/soa_project.c1168eb7/project
+2018-12-26 00:16:39,634 [    584]   INFO - serialization.JpsProjectLoader - External project config dir is used for modules: /home/hatem/.IntelliJIdea2018.3/system/external_build_system/soa_project.c1168eb7/modules
+2018-12-26 00:16:39,743 [    693]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 359 ms
+2018-12-26 00:16:39,743 [    693]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 2 libraries
+2018-12-26 00:16:39,865 [    815]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-12-26 00:16:39,967 [    917]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 918 ms
+2018-12-26 00:17:15,302 [  36252]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2018-12-26 00:17:15,305 [  36255]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled for JVM: true
+2018-12-26 00:17:15,305 [  36255]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled for JS: false
+2018-12-26 00:17:15,310 [  36260]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2018-12-26 00:17:15,310 [  36260]   INFO - kotlin.jps.build.KotlinBuilder - Label in local history: build started 51bd53c2
+2018-12-26 00:17:15,351 [  36301]   INFO - .incremental.IncProjectBuilder - Cleaned output directories in 2 ms
+2018-12-26 00:17:15,973 [  36923]   INFO - kotlin.jps.build.KotlinBuilder - KotlinTargetsIndex created in 580 ms
+2018-12-26 00:17:15,981 [  36931]   INFO - kotlin.jps.build.KotlinBuilder - Total Kotlin global compile context initialization time: 590 ms
+2018-12-26 00:17:15,999 [  36949]   INFO - s.incremental.java.JavaBuilder - Compiling 1 java files; module: SOA_project
+2018-12-26 00:17:16,516 [  37466]   INFO - brains.jps.incremental.Builder - Dependency analysis found 0 affected files
+2018-12-26 00:17:16,577 [  37527]   INFO - rains.jps.cmdline.BuildSession - Build duration: Builder 'Java' took 495 ms; 1 sources processed (495 ms per file)
+2018-12-26 00:17:16,583 [  37533]   INFO - s.incremental.java.JavaBuilder - javac 1.8.0_191 was used to compile [SOA_project]
+2018-12-26 00:17:16,950 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2018-12-26 00:17:16,950 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /snap/intellij-idea-ultimate/107/lib/jps-launcher.jar:/usr/lib/jvm/java-8-oracle/lib/tools.jar:/snap/intellij-idea-ultimate/107/lib/optimizedFileManager.jar
+2018-12-26 00:17:17,192 [    242]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 220 ms
+2018-12-26 00:17:17,271 [    321]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /home/hatem/Bureau/SOA_project, global options path = /home/hatem/.IntelliJIdea2018.3/config/options
+2018-12-26 00:17:17,507 [    557]   INFO - serialization.JpsProjectLoader - External project config dir is used: /home/hatem/.IntelliJIdea2018.3/system/external_build_system/soa_project.c1168eb7/project
+2018-12-26 00:17:17,514 [    564]   INFO - serialization.JpsProjectLoader - External project config dir is used for modules: /home/hatem/.IntelliJIdea2018.3/system/external_build_system/soa_project.c1168eb7/modules
+2018-12-26 00:17:17,613 [    663]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 342 ms
+2018-12-26 00:17:17,613 [    663]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 2 libraries
+2018-12-26 00:17:17,748 [    798]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-12-26 00:17:17,848 [    898]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 900 ms
+2018-12-26 00:17:30,429 [  13479]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2018-12-26 00:17:30,432 [  13482]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled for JVM: true
+2018-12-26 00:17:30,432 [  13482]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled for JS: false
+2018-12-26 00:17:30,437 [  13487]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2018-12-26 00:17:30,437 [  13487]   INFO - kotlin.jps.build.KotlinBuilder - Label in local history: build started 813e38f9
+2018-12-26 00:17:30,481 [  13531]   INFO - .incremental.IncProjectBuilder - Cleaned output directories in 2 ms
+2018-12-26 00:17:31,088 [  14138]   INFO - kotlin.jps.build.KotlinBuilder - KotlinTargetsIndex created in 573 ms
+2018-12-26 00:17:31,095 [  14145]   INFO - kotlin.jps.build.KotlinBuilder - Total Kotlin global compile context initialization time: 581 ms
+2018-12-26 00:17:31,115 [  14165]   INFO - s.incremental.java.JavaBuilder - Compiling 1 java files; module: SOA_project
+2018-12-26 00:17:32,010 [  15060]   INFO - brains.jps.incremental.Builder - Dependency analysis found 0 affected files
+2018-12-26 00:17:32,085 [  15135]   INFO - rains.jps.cmdline.BuildSession - Build duration: Builder 'Java' took 879 ms; 1 sources processed (879 ms per file)
+2018-12-26 00:17:32,092 [  15142]   INFO - s.incremental.java.JavaBuilder - javac 1.8.0_191 was used to compile [SOA_project]
+2018-12-26 00:17:32,548 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2018-12-26 00:17:32,548 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /snap/intellij-idea-ultimate/107/lib/jps-launcher.jar:/usr/lib/jvm/java-8-oracle/lib/tools.jar:/snap/intellij-idea-ultimate/107/lib/optimizedFileManager.jar
+2018-12-26 00:17:32,789 [    241]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 219 ms
+2018-12-26 00:17:32,875 [    327]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /home/hatem/Bureau/SOA_project, global options path = /home/hatem/.IntelliJIdea2018.3/config/options
+2018-12-26 00:17:33,124 [    576]   INFO - serialization.JpsProjectLoader - External project config dir is used: /home/hatem/.IntelliJIdea2018.3/system/external_build_system/soa_project.c1168eb7/project
+2018-12-26 00:17:33,131 [    583]   INFO - serialization.JpsProjectLoader - External project config dir is used for modules: /home/hatem/.IntelliJIdea2018.3/system/external_build_system/soa_project.c1168eb7/modules
+2018-12-26 00:17:33,240 [    692]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 365 ms
+2018-12-26 00:17:33,240 [    692]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 2 libraries
+2018-12-26 00:17:33,385 [    837]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-12-26 00:17:33,495 [    947]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 949 ms
+2018-12-26 00:18:35,066 [  62518]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2018-12-26 00:18:35,070 [  62522]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled for JVM: true
+2018-12-26 00:18:35,070 [  62522]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled for JS: false
+2018-12-26 00:18:35,074 [  62526]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2018-12-26 00:18:35,075 [  62527]   INFO - kotlin.jps.build.KotlinBuilder - Label in local history: build started ed2c3986
+2018-12-26 00:18:35,120 [  62572]   INFO - .incremental.IncProjectBuilder - Cleaned output directories in 3 ms
+2018-12-26 00:18:35,743 [  63195]   INFO - kotlin.jps.build.KotlinBuilder - KotlinTargetsIndex created in 574 ms
+2018-12-26 00:18:35,749 [  63201]   INFO - kotlin.jps.build.KotlinBuilder - Total Kotlin global compile context initialization time: 583 ms
+2018-12-26 00:18:35,765 [  63217]   INFO - s.incremental.java.JavaBuilder - Compiling 1 java files; module: SOA_project
+2018-12-26 00:18:36,269 [  63721]   INFO - brains.jps.incremental.Builder - Dependency analysis found 0 affected files
+2018-12-26 00:18:36,321 [  63773]   INFO - rains.jps.cmdline.BuildSession - Build duration: Builder 'Java' took 488 ms; 1 sources processed (488 ms per file)
+2018-12-26 00:18:36,327 [  63779]   INFO - s.incremental.java.JavaBuilder - javac 1.8.0_191 was used to compile [SOA_project]
+2018-12-26 00:18:36,678 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2018-12-26 00:18:36,679 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /snap/intellij-idea-ultimate/107/lib/jps-launcher.jar:/usr/lib/jvm/java-8-oracle/lib/tools.jar:/snap/intellij-idea-ultimate/107/lib/optimizedFileManager.jar
+2018-12-26 00:18:36,940 [    262]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 239 ms
+2018-12-26 00:18:37,017 [    339]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /home/hatem/Bureau/SOA_project, global options path = /home/hatem/.IntelliJIdea2018.3/config/options
+2018-12-26 00:18:37,238 [    560]   INFO - serialization.JpsProjectLoader - External project config dir is used: /home/hatem/.IntelliJIdea2018.3/system/external_build_system/soa_project.c1168eb7/project
+2018-12-26 00:18:37,244 [    566]   INFO - serialization.JpsProjectLoader - External project config dir is used for modules: /home/hatem/.IntelliJIdea2018.3/system/external_build_system/soa_project.c1168eb7/modules
+2018-12-26 00:18:37,348 [    670]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 331 ms
+2018-12-26 00:18:37,348 [    670]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 2 libraries
+2018-12-26 00:18:37,484 [    806]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-12-26 00:18:37,582 [    904]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 906 ms
+2018-12-26 00:25:50,114 [ 433436]   INFO - etbrains.jps.cmdline.BuildMain - Build canceled, but no build session is running. Exiting.
+2018-12-26 00:25:55,724 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2018-12-26 00:25:55,726 [      2]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /snap/intellij-idea-ultimate/107/lib/jps-launcher.jar:/usr/lib/jvm/java-8-oracle/lib/tools.jar:/snap/intellij-idea-ultimate/107/lib/optimizedFileManager.jar
+2018-12-26 00:25:55,973 [    249]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 226 ms
+2018-12-26 00:25:56,119 [    395]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /home/hatem/Bureau/SOA_project, global options path = /home/hatem/.IntelliJIdea2018.3/config/options
+2018-12-26 00:25:56,321 [    597]   INFO - serialization.JpsProjectLoader - External project config dir is used: /home/hatem/.IntelliJIdea2018.3/system/external_build_system/soa_project.c1168eb7/project
+2018-12-26 00:25:56,328 [    604]   INFO - serialization.JpsProjectLoader - External project config dir is used for modules: /home/hatem/.IntelliJIdea2018.3/system/external_build_system/soa_project.c1168eb7/modules
+2018-12-26 00:25:56,447 [    723]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 328 ms
+2018-12-26 00:25:56,447 [    723]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 2 libraries
+2018-12-26 00:25:56,595 [    871]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-12-26 00:25:56,740 [   1016]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2018-12-26 00:25:56,744 [   1020]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled for JVM: true
+2018-12-26 00:25:56,744 [   1020]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled for JS: false
+2018-12-26 00:25:56,752 [   1028]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2018-12-26 00:25:56,752 [   1028]   INFO - kotlin.jps.build.KotlinBuilder - Label in local history: build started fdd228fd
+2018-12-26 00:25:56,830 [   1106]   INFO - .incremental.IncProjectBuilder - Cleaned output directories in 4 ms
+2018-12-26 00:25:57,938 [   2214]   INFO - kotlin.jps.build.KotlinBuilder - KotlinTargetsIndex created in 996 ms
+2018-12-26 00:25:57,943 [   2219]   INFO - kotlin.jps.build.KotlinBuilder - Total Kotlin global compile context initialization time: 1004 ms
+2018-12-26 00:25:57,954 [   2230]   INFO - s.incremental.java.JavaBuilder - Compiling 2 java files; module: SOA_project
+2018-12-26 00:25:58,486 [   2762]   INFO - brains.jps.incremental.Builder - Dependency analysis found 0 affected files
+2018-12-26 00:25:58,550 [   2826]   INFO - rains.jps.cmdline.BuildSession - Build duration: Builder 'Java' took 509 ms; 2 sources processed (254 ms per file)
+2018-12-26 00:25:58,557 [   2833]   INFO - s.incremental.java.JavaBuilder - javac 1.8.0_191 was used to compile [SOA_project]
+2018-12-26 00:25:58,926 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2018-12-26 00:25:58,927 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /snap/intellij-idea-ultimate/107/lib/jps-launcher.jar:/usr/lib/jvm/java-8-oracle/lib/tools.jar:/snap/intellij-idea-ultimate/107/lib/optimizedFileManager.jar
+2018-12-26 00:25:59,205 [    279]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 257 ms
+2018-12-26 00:25:59,285 [    359]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /home/hatem/Bureau/SOA_project, global options path = /home/hatem/.IntelliJIdea2018.3/config/options
+2018-12-26 00:25:59,534 [    608]   INFO - serialization.JpsProjectLoader - External project config dir is used: /home/hatem/.IntelliJIdea2018.3/system/external_build_system/soa_project.c1168eb7/project
+2018-12-26 00:25:59,539 [    613]   INFO - serialization.JpsProjectLoader - External project config dir is used for modules: /home/hatem/.IntelliJIdea2018.3/system/external_build_system/soa_project.c1168eb7/modules
+2018-12-26 00:25:59,706 [    780]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 421 ms
+2018-12-26 00:25:59,706 [    780]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 2 libraries
+2018-12-26 00:25:59,852 [    926]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-12-26 00:25:59,956 [   1030]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 1032 ms
+2018-12-26 00:26:53,724 [  54798]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2018-12-26 00:26:53,727 [  54801]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled for JVM: true
+2018-12-26 00:26:53,727 [  54801]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled for JS: false
+2018-12-26 00:26:53,731 [  54805]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2018-12-26 00:26:53,731 [  54805]   INFO - kotlin.jps.build.KotlinBuilder - Label in local history: build started 59ee9077
+2018-12-26 00:26:53,783 [  54857]   INFO - .incremental.IncProjectBuilder - Cleaned output directories in 3 ms
+2018-12-26 00:26:54,451 [  55525]   INFO - kotlin.jps.build.KotlinBuilder - KotlinTargetsIndex created in 599 ms
+2018-12-26 00:26:54,456 [  55530]   INFO - kotlin.jps.build.KotlinBuilder - Total Kotlin global compile context initialization time: 607 ms
+2018-12-26 00:26:54,470 [  55544]   INFO - s.incremental.java.JavaBuilder - Compiling 1 java files; module: SOA_project
+2018-12-26 00:26:54,978 [  56052]   INFO - brains.jps.incremental.Builder - Dependency analysis found 0 affected files
+2018-12-26 00:26:55,026 [  56100]   INFO - rains.jps.cmdline.BuildSession - Build duration: Builder 'Java' took 487 ms; 1 sources processed (487 ms per file)
+2018-12-26 00:26:55,033 [  56107]   INFO - s.incremental.java.JavaBuilder - javac 1.8.0_191 was used to compile [SOA_project]
+2018-12-26 00:26:55,422 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2018-12-26 00:26:55,423 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /snap/intellij-idea-ultimate/107/lib/jps-launcher.jar:/usr/lib/jvm/java-8-oracle/lib/tools.jar:/snap/intellij-idea-ultimate/107/lib/optimizedFileManager.jar
+2018-12-26 00:26:55,719 [    297]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 270 ms
+2018-12-26 00:26:55,795 [    373]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /home/hatem/Bureau/SOA_project, global options path = /home/hatem/.IntelliJIdea2018.3/config/options
+2018-12-26 00:26:56,028 [    606]   INFO - serialization.JpsProjectLoader - External project config dir is used: /home/hatem/.IntelliJIdea2018.3/system/external_build_system/soa_project.c1168eb7/project
+2018-12-26 00:26:56,034 [    612]   INFO - serialization.JpsProjectLoader - External project config dir is used for modules: /home/hatem/.IntelliJIdea2018.3/system/external_build_system/soa_project.c1168eb7/modules
+2018-12-26 00:26:56,142 [    720]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 347 ms
+2018-12-26 00:26:56,142 [    720]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 2 libraries
+2018-12-26 00:26:56,279 [    857]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-12-26 00:26:56,414 [    992]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 995 ms
+2018-12-26 00:27:43,792 [  48370]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2018-12-26 00:27:43,795 [  48373]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled for JVM: true
+2018-12-26 00:27:43,795 [  48373]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled for JS: false
+2018-12-26 00:27:43,800 [  48378]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2018-12-26 00:27:43,800 [  48378]   INFO - kotlin.jps.build.KotlinBuilder - Label in local history: build started 149ea9d1
+2018-12-26 00:27:43,841 [  48419]   INFO - .incremental.IncProjectBuilder - Cleaned output directories in 2 ms
+2018-12-26 00:27:44,447 [  49025]   INFO - kotlin.jps.build.KotlinBuilder - KotlinTargetsIndex created in 571 ms
+2018-12-26 00:27:44,452 [  49030]   INFO - kotlin.jps.build.KotlinBuilder - Total Kotlin global compile context initialization time: 578 ms
+2018-12-26 00:27:44,467 [  49045]   INFO - s.incremental.java.JavaBuilder - Compiling 1 java files; module: SOA_project
+2018-12-26 00:27:44,958 [  49536]   INFO - brains.jps.incremental.Builder - Dependency analysis found 0 affected files
+2018-12-26 00:27:45,019 [  49597]   INFO - rains.jps.cmdline.BuildSession - Build duration: Builder 'Java' took 475 ms; 1 sources processed (475 ms per file)
+2018-12-26 00:27:45,025 [  49603]   INFO - s.incremental.java.JavaBuilder - javac 1.8.0_191 was used to compile [SOA_project]
+2018-12-26 00:27:45,396 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2018-12-26 00:27:45,397 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /snap/intellij-idea-ultimate/107/lib/jps-launcher.jar:/usr/lib/jvm/java-8-oracle/lib/tools.jar:/snap/intellij-idea-ultimate/107/lib/optimizedFileManager.jar
+2018-12-26 00:27:45,705 [    309]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 271 ms
+2018-12-26 00:27:45,789 [    393]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /home/hatem/Bureau/SOA_project, global options path = /home/hatem/.IntelliJIdea2018.3/config/options
+2018-12-26 00:27:46,031 [    635]   INFO - serialization.JpsProjectLoader - External project config dir is used: /home/hatem/.IntelliJIdea2018.3/system/external_build_system/soa_project.c1168eb7/project
+2018-12-26 00:27:46,042 [    646]   INFO - serialization.JpsProjectLoader - External project config dir is used for modules: /home/hatem/.IntelliJIdea2018.3/system/external_build_system/soa_project.c1168eb7/modules
+2018-12-26 00:27:46,143 [    747]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 354 ms
+2018-12-26 00:27:46,143 [    747]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 2 libraries
+2018-12-26 00:27:46,273 [    877]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-12-26 00:27:46,367 [    971]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 973 ms
+2018-12-26 00:30:56,151 [ 190755]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2018-12-26 00:30:56,154 [ 190758]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled for JVM: true
+2018-12-26 00:30:56,154 [ 190758]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled for JS: false
+2018-12-26 00:30:56,159 [ 190763]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2018-12-26 00:30:56,159 [ 190763]   INFO - kotlin.jps.build.KotlinBuilder - Label in local history: build started ffd5cb21
+2018-12-26 00:30:56,206 [ 190810]   INFO - .incremental.IncProjectBuilder - Cleaned output directories in 3 ms
+2018-12-26 00:30:56,804 [ 191408]   INFO - kotlin.jps.build.KotlinBuilder - KotlinTargetsIndex created in 567 ms
+2018-12-26 00:30:56,808 [ 191412]   INFO - kotlin.jps.build.KotlinBuilder - Total Kotlin global compile context initialization time: 573 ms
+2018-12-26 00:30:56,824 [ 191428]   INFO - s.incremental.java.JavaBuilder - Compiling 1 java files; module: SOA_project
+2018-12-26 00:30:57,350 [ 191954]   INFO - brains.jps.incremental.Builder - Dependency analysis found 0 affected files
+2018-12-26 00:30:57,398 [ 192002]   INFO - rains.jps.cmdline.BuildSession - Build duration: Builder 'Java' took 508 ms; 1 sources processed (508 ms per file)
+2018-12-26 00:30:57,404 [ 192008]   INFO - s.incremental.java.JavaBuilder - javac 1.8.0_191 was used to compile [SOA_project]
+2018-12-26 00:30:57,772 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2018-12-26 00:30:57,773 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /snap/intellij-idea-ultimate/107/lib/jps-launcher.jar:/usr/lib/jvm/java-8-oracle/lib/tools.jar:/snap/intellij-idea-ultimate/107/lib/optimizedFileManager.jar
+2018-12-26 00:30:58,053 [    281]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 249 ms
+2018-12-26 00:30:58,133 [    361]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /home/hatem/Bureau/SOA_project, global options path = /home/hatem/.IntelliJIdea2018.3/config/options
+2018-12-26 00:30:58,376 [    604]   INFO - serialization.JpsProjectLoader - External project config dir is used: /home/hatem/.IntelliJIdea2018.3/system/external_build_system/soa_project.c1168eb7/project
+2018-12-26 00:30:58,388 [    616]   INFO - serialization.JpsProjectLoader - External project config dir is used for modules: /home/hatem/.IntelliJIdea2018.3/system/external_build_system/soa_project.c1168eb7/modules
+2018-12-26 00:30:58,488 [    716]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 355 ms
+2018-12-26 00:30:58,488 [    716]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 2 libraries
+2018-12-26 00:30:58,610 [    838]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-12-26 00:30:58,710 [    938]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 940 ms
+2018-12-26 00:31:15,507 [  17735]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2018-12-26 00:31:15,510 [  17738]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled for JVM: true
+2018-12-26 00:31:15,510 [  17738]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled for JS: false
+2018-12-26 00:31:15,515 [  17743]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2018-12-26 00:31:15,515 [  17743]   INFO - kotlin.jps.build.KotlinBuilder - Label in local history: build started dd2b3a21
+2018-12-26 00:31:15,557 [  17785]   INFO - .incremental.IncProjectBuilder - Cleaned output directories in 3 ms
+2018-12-26 00:31:16,146 [  18374]   INFO - kotlin.jps.build.KotlinBuilder - KotlinTargetsIndex created in 553 ms
+2018-12-26 00:31:16,150 [  18378]   INFO - kotlin.jps.build.KotlinBuilder - Total Kotlin global compile context initialization time: 560 ms
+2018-12-26 00:31:16,164 [  18392]   INFO - s.incremental.java.JavaBuilder - Compiling 1 java files; module: SOA_project
+2018-12-26 00:31:16,720 [  18948]   INFO - brains.jps.incremental.Builder - Dependency analysis found 0 affected files
+2018-12-26 00:31:16,771 [  18999]   INFO - rains.jps.cmdline.BuildSession - Build duration: Builder 'Java' took 535 ms; 1 sources processed (535 ms per file)
+2018-12-26 00:31:16,776 [  19004]   INFO - s.incremental.java.JavaBuilder - javac 1.8.0_191 was used to compile [SOA_project]
+2018-12-26 00:31:17,141 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2018-12-26 00:31:17,142 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /snap/intellij-idea-ultimate/107/lib/jps-launcher.jar:/usr/lib/jvm/java-8-oracle/lib/tools.jar:/snap/intellij-idea-ultimate/107/lib/optimizedFileManager.jar
+2018-12-26 00:31:17,422 [    281]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 258 ms
+2018-12-26 00:31:17,503 [    362]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /home/hatem/Bureau/SOA_project, global options path = /home/hatem/.IntelliJIdea2018.3/config/options
+2018-12-26 00:31:17,736 [    595]   INFO - serialization.JpsProjectLoader - External project config dir is used: /home/hatem/.IntelliJIdea2018.3/system/external_build_system/soa_project.c1168eb7/project
+2018-12-26 00:31:17,742 [    601]   INFO - serialization.JpsProjectLoader - External project config dir is used for modules: /home/hatem/.IntelliJIdea2018.3/system/external_build_system/soa_project.c1168eb7/modules
+2018-12-26 00:31:17,852 [    711]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 349 ms
+2018-12-26 00:31:17,852 [    711]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 2 libraries
+2018-12-26 00:31:17,987 [    846]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-12-26 00:31:18,085 [    944]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 947 ms
+2018-12-26 00:31:35,359 [  18218]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2018-12-26 00:31:35,362 [  18221]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled for JVM: true
+2018-12-26 00:31:35,362 [  18221]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled for JS: false
+2018-12-26 00:31:35,367 [  18226]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2018-12-26 00:31:35,367 [  18226]   INFO - kotlin.jps.build.KotlinBuilder - Label in local history: build started b414ff8
+2018-12-26 00:31:35,416 [  18275]   INFO - .incremental.IncProjectBuilder - Cleaned output directories in 3 ms
+2018-12-26 00:31:36,022 [  18881]   INFO - kotlin.jps.build.KotlinBuilder - KotlinTargetsIndex created in 568 ms
+2018-12-26 00:31:36,026 [  18885]   INFO - kotlin.jps.build.KotlinBuilder - Total Kotlin global compile context initialization time: 574 ms
+2018-12-26 00:31:36,040 [  18899]   INFO - s.incremental.java.JavaBuilder - Compiling 1 java files; module: SOA_project
+2018-12-26 00:31:36,547 [  19406]   INFO - brains.jps.incremental.Builder - Dependency analysis found 0 affected files
+2018-12-26 00:31:36,602 [  19461]   INFO - rains.jps.cmdline.BuildSession - Build duration: Builder 'Java' took 487 ms; 1 sources processed (487 ms per file)
+2018-12-26 00:31:36,607 [  19466]   INFO - s.incremental.java.JavaBuilder - javac 1.8.0_191 was used to compile [SOA_project]
+2018-12-26 00:31:37,085 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2018-12-26 00:31:37,086 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /snap/intellij-idea-ultimate/107/lib/jps-launcher.jar:/usr/lib/jvm/java-8-oracle/lib/tools.jar:/snap/intellij-idea-ultimate/107/lib/optimizedFileManager.jar
+2018-12-26 00:31:37,374 [    289]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 266 ms
+2018-12-26 00:31:37,453 [    368]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /home/hatem/Bureau/SOA_project, global options path = /home/hatem/.IntelliJIdea2018.3/config/options
+2018-12-26 00:31:37,717 [    632]   INFO - serialization.JpsProjectLoader - External project config dir is used: /home/hatem/.IntelliJIdea2018.3/system/external_build_system/soa_project.c1168eb7/project
+2018-12-26 00:31:37,724 [    639]   INFO - serialization.JpsProjectLoader - External project config dir is used for modules: /home/hatem/.IntelliJIdea2018.3/system/external_build_system/soa_project.c1168eb7/modules
+2018-12-26 00:31:37,833 [    748]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 380 ms
+2018-12-26 00:31:37,833 [    748]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 2 libraries
+2018-12-26 00:31:37,975 [    890]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-12-26 00:31:38,075 [    990]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 993 ms
+2018-12-26 00:35:04,068 [ 206983]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2018-12-26 00:35:04,071 [ 206986]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled for JVM: true
+2018-12-26 00:35:04,071 [ 206986]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled for JS: false
+2018-12-26 00:35:04,076 [ 206991]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2018-12-26 00:35:04,076 [ 206991]   INFO - kotlin.jps.build.KotlinBuilder - Label in local history: build started 62bca928
+2018-12-26 00:35:04,124 [ 207039]   INFO - .incremental.IncProjectBuilder - Cleaned output directories in 3 ms
+2018-12-26 00:35:05,031 [ 207946]   INFO - kotlin.jps.build.KotlinBuilder - KotlinTargetsIndex created in 864 ms
+2018-12-26 00:35:05,035 [ 207950]   INFO - kotlin.jps.build.KotlinBuilder - Total Kotlin global compile context initialization time: 870 ms
+2018-12-26 00:35:05,055 [ 207970]   INFO - s.incremental.java.JavaBuilder - Compiling 1 java files; module: SOA_project
+2018-12-26 00:35:05,615 [ 208530]   INFO - brains.jps.incremental.Builder - Dependency analysis found 0 affected files
+2018-12-26 00:35:05,664 [ 208579]   INFO - rains.jps.cmdline.BuildSession - Build duration: Builder 'Java' took 543 ms; 1 sources processed (543 ms per file)
+2018-12-26 00:35:05,670 [ 208585]   INFO - s.incremental.java.JavaBuilder - javac 1.8.0_191 was used to compile [SOA_project]
+2018-12-26 00:35:06,027 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2018-12-26 00:35:06,027 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /snap/intellij-idea-ultimate/107/lib/jps-launcher.jar:/usr/lib/jvm/java-8-oracle/lib/tools.jar:/snap/intellij-idea-ultimate/107/lib/optimizedFileManager.jar
+2018-12-26 00:35:06,344 [    317]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 286 ms
+2018-12-26 00:35:06,420 [    393]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /home/hatem/Bureau/SOA_project, global options path = /home/hatem/.IntelliJIdea2018.3/config/options
+2018-12-26 00:35:06,679 [    652]   INFO - serialization.JpsProjectLoader - External project config dir is used: /home/hatem/.IntelliJIdea2018.3/system/external_build_system/soa_project.c1168eb7/project
+2018-12-26 00:35:06,692 [    665]   INFO - serialization.JpsProjectLoader - External project config dir is used for modules: /home/hatem/.IntelliJIdea2018.3/system/external_build_system/soa_project.c1168eb7/modules
+2018-12-26 00:35:06,791 [    764]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 371 ms
+2018-12-26 00:35:06,791 [    764]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 2 libraries
+2018-12-26 00:35:06,933 [    906]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-12-26 00:35:07,032 [   1005]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 1007 ms
+2018-12-26 00:35:45,952 [  39925]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2018-12-26 00:35:45,956 [  39929]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled for JVM: true
+2018-12-26 00:35:45,956 [  39929]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled for JS: false
+2018-12-26 00:35:45,960 [  39933]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2018-12-26 00:35:45,960 [  39933]   INFO - kotlin.jps.build.KotlinBuilder - Label in local history: build started 64da17f3
+2018-12-26 00:35:46,008 [  39981]   INFO - .incremental.IncProjectBuilder - Cleaned output directories in 3 ms
+2018-12-26 00:35:46,647 [  40620]   INFO - kotlin.jps.build.KotlinBuilder - KotlinTargetsIndex created in 600 ms
+2018-12-26 00:35:46,651 [  40624]   INFO - kotlin.jps.build.KotlinBuilder - Total Kotlin global compile context initialization time: 606 ms
+2018-12-26 00:35:46,666 [  40639]   INFO - s.incremental.java.JavaBuilder - Compiling 1 java files; module: SOA_project
+2018-12-26 00:35:47,153 [  41126]   INFO - brains.jps.incremental.Builder - Dependency analysis found 0 affected files
+2018-12-26 00:35:47,207 [  41180]   INFO - rains.jps.cmdline.BuildSession - Build duration: Builder 'Java' took 469 ms; 1 sources processed (469 ms per file)
+2018-12-26 00:35:47,214 [  41187]   INFO - s.incremental.java.JavaBuilder - javac 1.8.0_191 was used to compile [SOA_project]
+2018-12-26 00:35:47,618 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2018-12-26 00:35:47,618 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /snap/intellij-idea-ultimate/107/lib/jps-launcher.jar:/usr/lib/jvm/java-8-oracle/lib/tools.jar:/snap/intellij-idea-ultimate/107/lib/optimizedFileManager.jar
+2018-12-26 00:35:47,906 [    288]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 252 ms
+2018-12-26 00:35:47,991 [    373]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /home/hatem/Bureau/SOA_project, global options path = /home/hatem/.IntelliJIdea2018.3/config/options
+2018-12-26 00:35:48,216 [    598]   INFO - serialization.JpsProjectLoader - External project config dir is used: /home/hatem/.IntelliJIdea2018.3/system/external_build_system/soa_project.c1168eb7/project
+2018-12-26 00:35:48,223 [    605]   INFO - serialization.JpsProjectLoader - External project config dir is used for modules: /home/hatem/.IntelliJIdea2018.3/system/external_build_system/soa_project.c1168eb7/modules
+2018-12-26 00:35:48,334 [    716]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 343 ms
+2018-12-26 00:35:48,334 [    716]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 2 libraries
+2018-12-26 00:35:48,460 [    842]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-12-26 00:35:48,562 [    944]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 946 ms
+2018-12-26 00:37:17,974 [  90356]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2018-12-26 00:37:17,977 [  90359]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled for JVM: true
+2018-12-26 00:37:17,977 [  90359]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled for JS: false
+2018-12-26 00:37:17,981 [  90363]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2018-12-26 00:37:17,981 [  90363]   INFO - kotlin.jps.build.KotlinBuilder - Label in local history: build started fbeef0b3
+2018-12-26 00:37:18,026 [  90408]   INFO - .incremental.IncProjectBuilder - Cleaned output directories in 4 ms
+2018-12-26 00:37:18,966 [  91348]   INFO - kotlin.jps.build.KotlinBuilder - KotlinTargetsIndex created in 859 ms
+2018-12-26 00:37:18,974 [  91356]   INFO - kotlin.jps.build.KotlinBuilder - Total Kotlin global compile context initialization time: 870 ms
+2018-12-26 00:37:18,997 [  91379]   INFO - s.incremental.java.JavaBuilder - Compiling 1 java files; module: SOA_project
+2018-12-26 00:37:19,539 [  91921]   INFO - brains.jps.incremental.Builder - Dependency analysis found 0 affected files
+2018-12-26 00:37:19,584 [  91966]   INFO - rains.jps.cmdline.BuildSession - Build duration: Builder 'Java' took 527 ms; 1 sources processed (527 ms per file)
+2018-12-26 00:37:19,590 [  91972]   INFO - s.incremental.java.JavaBuilder - javac 1.8.0_191 was used to compile [SOA_project]
+2018-12-26 00:37:20,289 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2018-12-26 00:37:20,289 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /snap/intellij-idea-ultimate/107/lib/jps-launcher.jar:/usr/lib/jvm/java-8-oracle/lib/tools.jar:/snap/intellij-idea-ultimate/107/lib/optimizedFileManager.jar
+2018-12-26 00:37:20,573 [    284]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 261 ms
+2018-12-26 00:37:20,655 [    366]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /home/hatem/Bureau/SOA_project, global options path = /home/hatem/.IntelliJIdea2018.3/config/options
+2018-12-26 00:37:20,883 [    594]   INFO - serialization.JpsProjectLoader - External project config dir is used: /home/hatem/.IntelliJIdea2018.3/system/external_build_system/soa_project.c1168eb7/project
+2018-12-26 00:37:20,889 [    600]   INFO - serialization.JpsProjectLoader - External project config dir is used for modules: /home/hatem/.IntelliJIdea2018.3/system/external_build_system/soa_project.c1168eb7/modules
+2018-12-26 00:37:20,997 [    708]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 342 ms
+2018-12-26 00:37:20,997 [    708]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 2 libraries
+2018-12-26 00:37:21,118 [    829]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-12-26 00:37:21,213 [    924]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 932 ms
+2018-12-26 00:37:48,259 [  27970]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2018-12-26 00:37:48,261 [  27972]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled for JVM: true
+2018-12-26 00:37:48,262 [  27973]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled for JS: false
+2018-12-26 00:37:48,266 [  27977]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2018-12-26 00:37:48,266 [  27977]   INFO - kotlin.jps.build.KotlinBuilder - Label in local history: build started 8894d09e
+2018-12-26 00:37:48,313 [  28024]   INFO - .incremental.IncProjectBuilder - Cleaned output directories in 2 ms
+2018-12-26 00:37:48,913 [  28624]   INFO - kotlin.jps.build.KotlinBuilder - KotlinTargetsIndex created in 562 ms
+2018-12-26 00:37:48,917 [  28628]   INFO - kotlin.jps.build.KotlinBuilder - Total Kotlin global compile context initialization time: 568 ms
+2018-12-26 00:37:48,931 [  28642]   INFO - s.incremental.java.JavaBuilder - Compiling 1 java files; module: SOA_project
+2018-12-26 00:37:49,430 [  29141]   INFO - brains.jps.incremental.Builder - Dependency analysis found 0 affected files
+2018-12-26 00:37:49,488 [  29199]   INFO - rains.jps.cmdline.BuildSession - Build duration: Builder 'Java' took 477 ms; 1 sources processed (477 ms per file)
+2018-12-26 00:37:49,493 [  29204]   INFO - s.incremental.java.JavaBuilder - javac 1.8.0_191 was used to compile [SOA_project]
+2018-12-26 00:37:49,865 [      1]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2018-12-26 00:37:49,865 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /snap/intellij-idea-ultimate/107/lib/jps-launcher.jar:/usr/lib/jvm/java-8-oracle/lib/tools.jar:/snap/intellij-idea-ultimate/107/lib/optimizedFileManager.jar
+2018-12-26 00:37:50,150 [    286]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 253 ms
+2018-12-26 00:37:50,230 [    366]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /home/hatem/Bureau/SOA_project, global options path = /home/hatem/.IntelliJIdea2018.3/config/options
+2018-12-26 00:37:50,455 [    591]   INFO - serialization.JpsProjectLoader - External project config dir is used: /home/hatem/.IntelliJIdea2018.3/system/external_build_system/soa_project.c1168eb7/project
+2018-12-26 00:37:50,462 [    598]   INFO - serialization.JpsProjectLoader - External project config dir is used for modules: /home/hatem/.IntelliJIdea2018.3/system/external_build_system/soa_project.c1168eb7/modules
+2018-12-26 00:37:50,566 [    702]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 336 ms
+2018-12-26 00:37:50,567 [    703]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 2 libraries
+2018-12-26 00:37:50,691 [    827]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-12-26 00:37:50,791 [    927]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 929 ms
+2018-12-26 00:38:55,580 [  65716]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2018-12-26 00:38:55,583 [  65719]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled for JVM: true
+2018-12-26 00:38:55,583 [  65719]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled for JS: false
+2018-12-26 00:38:55,589 [  65725]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2018-12-26 00:38:55,589 [  65725]   INFO - kotlin.jps.build.KotlinBuilder - Label in local history: build started 2effbfac
+2018-12-26 00:38:55,632 [  65768]   INFO - .incremental.IncProjectBuilder - Cleaned output directories in 3 ms
+2018-12-26 00:38:56,237 [  66373]   INFO - kotlin.jps.build.KotlinBuilder - KotlinTargetsIndex created in 564 ms
+2018-12-26 00:38:56,241 [  66377]   INFO - kotlin.jps.build.KotlinBuilder - Total Kotlin global compile context initialization time: 570 ms
+2018-12-26 00:38:56,256 [  66392]   INFO - s.incremental.java.JavaBuilder - Compiling 1 java files; module: SOA_project
+2018-12-26 00:38:56,781 [  66917]   INFO - brains.jps.incremental.Builder - Dependency analysis found 0 affected files
+2018-12-26 00:38:56,834 [  66970]   INFO - rains.jps.cmdline.BuildSession - Build duration: Builder 'Java' took 504 ms; 1 sources processed (504 ms per file)
+2018-12-26 00:38:56,840 [  66976]   INFO - s.incremental.java.JavaBuilder - javac 1.8.0_191 was used to compile [SOA_project]
+2018-12-26 00:38:57,248 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2018-12-26 00:38:57,249 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /snap/intellij-idea-ultimate/107/lib/jps-launcher.jar:/usr/lib/jvm/java-8-oracle/lib/tools.jar:/snap/intellij-idea-ultimate/107/lib/optimizedFileManager.jar
+2018-12-26 00:38:57,544 [    296]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 274 ms
+2018-12-26 00:38:57,627 [    379]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /home/hatem/Bureau/SOA_project, global options path = /home/hatem/.IntelliJIdea2018.3/config/options
+2018-12-26 00:38:57,862 [    614]   INFO - serialization.JpsProjectLoader - External project config dir is used: /home/hatem/.IntelliJIdea2018.3/system/external_build_system/soa_project.c1168eb7/project
+2018-12-26 00:38:57,868 [    620]   INFO - serialization.JpsProjectLoader - External project config dir is used for modules: /home/hatem/.IntelliJIdea2018.3/system/external_build_system/soa_project.c1168eb7/modules
+2018-12-26 00:38:57,974 [    726]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 347 ms
+2018-12-26 00:38:57,974 [    726]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 2 libraries
+2018-12-26 00:38:58,096 [    848]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-12-26 00:38:58,198 [    950]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 953 ms
+2018-12-26 00:41:09,694 [ 132446]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2018-12-26 00:41:09,697 [ 132449]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled for JVM: true
+2018-12-26 00:41:09,697 [ 132449]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled for JS: false
+2018-12-26 00:41:09,702 [ 132454]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2018-12-26 00:41:09,702 [ 132454]   INFO - kotlin.jps.build.KotlinBuilder - Label in local history: build started 1322a4d7
+2018-12-26 00:41:09,752 [ 132504]   INFO - .incremental.IncProjectBuilder - Cleaned output directories in 3 ms
+2018-12-26 00:41:10,346 [ 133098]   INFO - kotlin.jps.build.KotlinBuilder - KotlinTargetsIndex created in 560 ms
+2018-12-26 00:41:10,350 [ 133102]   INFO - kotlin.jps.build.KotlinBuilder - Total Kotlin global compile context initialization time: 565 ms
+2018-12-26 00:41:10,369 [ 133121]   INFO - s.incremental.java.JavaBuilder - Compiling 1 java files; module: SOA_project
+2018-12-26 00:41:10,902 [ 133654]   INFO - brains.jps.incremental.Builder - Dependency analysis found 0 affected files
+2018-12-26 00:41:10,957 [ 133709]   INFO - rains.jps.cmdline.BuildSession - Build duration: Builder 'Java' took 514 ms; 1 sources processed (514 ms per file)
+2018-12-26 00:41:10,963 [ 133715]   INFO - s.incremental.java.JavaBuilder - javac 1.8.0_191 was used to compile [SOA_project]
+2018-12-26 00:41:11,352 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2018-12-26 00:41:11,353 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /snap/intellij-idea-ultimate/107/lib/jps-launcher.jar:/usr/lib/jvm/java-8-oracle/lib/tools.jar:/snap/intellij-idea-ultimate/107/lib/optimizedFileManager.jar
+2018-12-26 00:41:11,643 [    291]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 267 ms
+2018-12-26 00:41:11,721 [    369]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /home/hatem/Bureau/SOA_project, global options path = /home/hatem/.IntelliJIdea2018.3/config/options
+2018-12-26 00:41:11,935 [    583]   INFO - serialization.JpsProjectLoader - External project config dir is used: /home/hatem/.IntelliJIdea2018.3/system/external_build_system/soa_project.c1168eb7/project
+2018-12-26 00:41:11,942 [    590]   INFO - serialization.JpsProjectLoader - External project config dir is used for modules: /home/hatem/.IntelliJIdea2018.3/system/external_build_system/soa_project.c1168eb7/modules
+2018-12-26 00:41:12,047 [    695]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 326 ms
+2018-12-26 00:41:12,047 [    695]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 2 libraries
+2018-12-26 00:41:12,172 [    820]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-12-26 00:41:12,266 [    914]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 916 ms
+2018-12-26 00:42:35,684 [  84332]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2018-12-26 00:42:35,689 [  84337]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled for JVM: true
+2018-12-26 00:42:35,689 [  84337]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled for JS: false
+2018-12-26 00:42:35,694 [  84342]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2018-12-26 00:42:35,694 [  84342]   INFO - kotlin.jps.build.KotlinBuilder - Label in local history: build started e7569d2b
+2018-12-26 00:42:35,757 [  84405]   INFO - .incremental.IncProjectBuilder - Cleaned output directories in 3 ms
+2018-12-26 00:42:36,343 [  84991]   INFO - kotlin.jps.build.KotlinBuilder - KotlinTargetsIndex created in 555 ms
+2018-12-26 00:42:36,347 [  84995]   INFO - kotlin.jps.build.KotlinBuilder - Total Kotlin global compile context initialization time: 560 ms
+2018-12-26 00:42:36,363 [  85011]   INFO - s.incremental.java.JavaBuilder - Compiling 2 java files; module: SOA_project
+2018-12-26 00:42:36,927 [  85575]   INFO - brains.jps.incremental.Builder - Dependency analysis found 0 affected files
+2018-12-26 00:42:36,989 [  85637]   INFO - rains.jps.cmdline.BuildSession - Build duration: Builder 'Java' took 534 ms; 2 sources processed (267 ms per file)
+2018-12-26 00:42:36,995 [  85643]   INFO - s.incremental.java.JavaBuilder - javac 1.8.0_191 was used to compile [SOA_project]
+2018-12-26 00:42:37,393 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2018-12-26 00:42:37,394 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /snap/intellij-idea-ultimate/107/lib/jps-launcher.jar:/usr/lib/jvm/java-8-oracle/lib/tools.jar:/snap/intellij-idea-ultimate/107/lib/optimizedFileManager.jar
+2018-12-26 00:42:37,684 [    291]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 263 ms
+2018-12-26 00:42:37,764 [    371]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /home/hatem/Bureau/SOA_project, global options path = /home/hatem/.IntelliJIdea2018.3/config/options
+2018-12-26 00:42:37,987 [    594]   INFO - serialization.JpsProjectLoader - External project config dir is used: /home/hatem/.IntelliJIdea2018.3/system/external_build_system/soa_project.c1168eb7/project
+2018-12-26 00:42:37,993 [    600]   INFO - serialization.JpsProjectLoader - External project config dir is used for modules: /home/hatem/.IntelliJIdea2018.3/system/external_build_system/soa_project.c1168eb7/modules
+2018-12-26 00:42:38,095 [    702]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 331 ms
+2018-12-26 00:42:38,096 [    703]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 2 libraries
+2018-12-26 00:42:38,219 [    826]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-12-26 00:42:38,335 [    942]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 944 ms
+2018-12-26 12:44:25,405 [43308012]   INFO - etbrains.jps.cmdline.BuildMain - Build canceled, but no build session is running. Exiting.
+2018-12-27 15:11:38,844 [      1]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2018-12-27 15:11:38,882 [     39]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /snap/intellij-idea-ultimate/108/lib/jps-launcher.jar:/usr/lib/jvm/java-8-oracle/lib/tools.jar:/snap/intellij-idea-ultimate/108/lib/optimizedFileManager.jar
+2018-12-27 15:11:39,992 [   1149]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 1026 ms
+2018-12-27 15:11:40,873 [   2030]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /home/hatem/Bureau/SOA_project, global options path = /home/hatem/.IntelliJIdea2018.3/config/options
+2018-12-27 15:11:41,931 [   3088]   INFO - serialization.JpsProjectLoader - External project config dir is used: /home/hatem/.IntelliJIdea2018.3/system/external_build_system/soa_project.c1168eb7/project
+2018-12-27 15:11:41,968 [   3125]   INFO - serialization.JpsProjectLoader - External project config dir is used for modules: /home/hatem/.IntelliJIdea2018.3/system/external_build_system/soa_project.c1168eb7/modules
+2018-12-27 15:11:42,689 [   3846]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 1816 ms
+2018-12-27 15:11:42,689 [   3846]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 2 libraries
+2018-12-27 15:11:43,379 [   4536]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-12-27 15:11:45,734 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2018-12-27 15:11:45,735 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /snap/intellij-idea-ultimate/108/lib/jps-launcher.jar:/usr/lib/jvm/java-8-oracle/lib/tools.jar:/snap/intellij-idea-ultimate/108/lib/optimizedFileManager.jar
+2018-12-27 15:11:46,414 [    680]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 622 ms
+2018-12-27 15:11:46,953 [   1219]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /home/hatem/Bureau/SOA_project, global options path = /home/hatem/.IntelliJIdea2018.3/config/options
+2018-12-27 15:11:47,706 [   1972]   INFO - serialization.JpsProjectLoader - External project config dir is used: /home/hatem/.IntelliJIdea2018.3/system/external_build_system/soa_project.c1168eb7/project
+2018-12-27 15:11:47,740 [   2006]   INFO - serialization.JpsProjectLoader - External project config dir is used for modules: /home/hatem/.IntelliJIdea2018.3/system/external_build_system/soa_project.c1168eb7/modules
+2018-12-27 15:11:48,005 [   2271]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 1052 ms
+2018-12-27 15:11:48,005 [   2271]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 2 libraries
+2018-12-27 15:11:48,399 [   2665]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-12-27 15:11:48,860 [   3126]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 3129 ms
+2018-12-27 15:18:52,312 [ 426578]   INFO - etbrains.jps.cmdline.BuildMain - Build canceled, but no build session is running. Exiting.
+2018-12-27 17:13:08,537 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2018-12-27 17:13:08,573 [     36]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /snap/intellij-idea-ultimate/108/lib/jps-launcher.jar:/usr/lib/jvm/java-8-oracle/lib/tools.jar:/snap/intellij-idea-ultimate/108/lib/optimizedFileManager.jar
+2018-12-27 17:13:10,195 [   1658]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 1445 ms
+2018-12-27 17:13:10,975 [   2438]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /home/hatem/Bureau/SOA_project, global options path = /home/hatem/.IntelliJIdea2018.3/config/options
+2018-12-27 17:13:12,014 [   3477]   INFO - serialization.JpsProjectLoader - External project config dir is used: /home/hatem/.IntelliJIdea2018.3/system/external_build_system/soa_project.c1168eb7/project
+2018-12-27 17:13:12,059 [   3522]   INFO - serialization.JpsProjectLoader - External project config dir is used for modules: /home/hatem/.IntelliJIdea2018.3/system/external_build_system/soa_project.c1168eb7/modules
+2018-12-27 17:13:12,695 [   4158]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 1720 ms
+2018-12-27 17:13:12,695 [   4158]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2018-12-27 17:13:13,452 [   4915]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-12-27 17:13:15,736 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2018-12-27 17:13:15,736 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /snap/intellij-idea-ultimate/108/lib/jps-launcher.jar:/usr/lib/jvm/java-8-oracle/lib/tools.jar:/snap/intellij-idea-ultimate/108/lib/optimizedFileManager.jar
+2018-12-27 17:13:16,775 [   1039]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 989 ms
+2018-12-27 17:13:16,972 [   1236]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /home/hatem/Bureau/SOA_project, global options path = /home/hatem/.IntelliJIdea2018.3/config/options
+2018-12-27 17:13:17,299 [   1563]   INFO - serialization.JpsProjectLoader - External project config dir is used: /home/hatem/.IntelliJIdea2018.3/system/external_build_system/soa_project.c1168eb7/project
+2018-12-27 17:13:17,311 [   1575]   INFO - serialization.JpsProjectLoader - External project config dir is used for modules: /home/hatem/.IntelliJIdea2018.3/system/external_build_system/soa_project.c1168eb7/modules
+2018-12-27 17:13:17,574 [   1838]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 602 ms
+2018-12-27 17:13:17,574 [   1838]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2018-12-27 17:13:17,959 [   2223]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-12-27 17:13:18,452 [   2716]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 2719 ms
+2018-12-27 18:00:36,955 [2841219]   INFO - etbrains.jps.cmdline.BuildMain - Build canceled, but no build session is running. Exiting.
+2018-12-27 18:00:37,253 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2018-12-27 18:00:37,254 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /snap/intellij-idea-ultimate/108/lib/jps-launcher.jar:/usr/lib/jvm/java-8-oracle/lib/tools.jar:/snap/intellij-idea-ultimate/108/lib/optimizedFileManager.jar
+2018-12-27 18:00:37,492 [    239]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 222 ms
+2018-12-27 18:00:37,629 [    376]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /home/hatem/Bureau/SOA_project, global options path = /home/hatem/.IntelliJIdea2018.3/config/options
+2018-12-27 18:00:37,870 [    617]   INFO - serialization.JpsProjectLoader - External project config dir is used: /home/hatem/.IntelliJIdea2018.3/system/external_build_system/soa_project.c1168eb7/project
+2018-12-27 18:00:37,877 [    624]   INFO - serialization.JpsProjectLoader - External project config dir is used for modules: /home/hatem/.IntelliJIdea2018.3/system/external_build_system/soa_project.c1168eb7/modules
+2018-12-27 18:00:37,979 [    726]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 350 ms
+2018-12-27 18:00:37,979 [    726]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2018-12-27 18:00:38,133 [    880]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-12-27 18:00:38,247 [    994]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2018-12-27 18:00:38,252 [    999]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled for JVM: true
+2018-12-27 18:00:38,252 [    999]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled for JS: false
+2018-12-27 18:00:38,340 [   1087]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2018-12-27 18:00:38,340 [   1087]   INFO - kotlin.jps.build.KotlinBuilder - Label in local history: build started 85fdb4f
+2018-12-27 18:00:38,501 [   1248]   INFO - .incremental.IncProjectBuilder - Cleaned output directories in 3 ms
+2018-12-27 18:00:39,649 [   2396]   INFO - kotlin.jps.build.KotlinBuilder - KotlinTargetsIndex created in 855 ms
+2018-12-27 18:00:39,653 [   2400]   INFO - kotlin.jps.build.KotlinBuilder - Total Kotlin global compile context initialization time: 861 ms
+2018-12-27 18:00:39,667 [   2414]   INFO - s.incremental.java.JavaBuilder - Compiling 4 java files; module: SOA_project
+2018-12-27 18:00:41,176 [   3923]   INFO - brains.jps.incremental.Builder - Dependency analysis found 0 affected files
+2018-12-27 18:00:41,306 [   4053]   INFO - rains.jps.cmdline.BuildSession - Build duration: Builder 'Java' took 1 s 381 ms; 4 sources processed (345 ms per file)
+2018-12-27 18:00:41,311 [   4058]   INFO - s.incremental.java.JavaBuilder - javac 1.8.0_191 was used to compile [SOA_project]
+2018-12-27 18:00:41,813 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2018-12-27 18:00:41,814 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /snap/intellij-idea-ultimate/108/lib/jps-launcher.jar:/usr/lib/jvm/java-8-oracle/lib/tools.jar:/snap/intellij-idea-ultimate/108/lib/optimizedFileManager.jar
+2018-12-27 18:00:42,191 [    378]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 342 ms
+2018-12-27 18:00:42,340 [    527]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /home/hatem/Bureau/SOA_project, global options path = /home/hatem/.IntelliJIdea2018.3/config/options
+2018-12-27 18:00:42,910 [   1097]   INFO - serialization.JpsProjectLoader - External project config dir is used: /home/hatem/.IntelliJIdea2018.3/system/external_build_system/soa_project.c1168eb7/project
+2018-12-27 18:00:42,922 [   1109]   INFO - serialization.JpsProjectLoader - External project config dir is used for modules: /home/hatem/.IntelliJIdea2018.3/system/external_build_system/soa_project.c1168eb7/modules
+2018-12-27 18:00:43,210 [   1397]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 870 ms
+2018-12-27 18:00:43,210 [   1397]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2018-12-27 18:00:43,584 [   1771]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-12-27 18:00:43,947 [   2134]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 2136 ms
+2018-12-27 18:00:44,064 [   2251]   INFO - etbrains.jps.cmdline.BuildMain - Build canceled, but no build session is running. Exiting.
+2018-12-27 18:01:53,459 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2018-12-27 18:01:53,460 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /snap/intellij-idea-ultimate/108/lib/jps-launcher.jar:/usr/lib/jvm/java-8-oracle/lib/tools.jar:/snap/intellij-idea-ultimate/108/lib/optimizedFileManager.jar
+2018-12-27 18:01:53,697 [    238]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 219 ms
+2018-12-27 18:01:53,838 [    379]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /home/hatem/Bureau/SOA_project, global options path = /home/hatem/.IntelliJIdea2018.3/config/options
+2018-12-27 18:01:54,063 [    604]   INFO - serialization.JpsProjectLoader - External project config dir is used: /home/hatem/.IntelliJIdea2018.3/system/external_build_system/soa_project.c1168eb7/project
+2018-12-27 18:01:54,072 [    613]   INFO - serialization.JpsProjectLoader - External project config dir is used for modules: /home/hatem/.IntelliJIdea2018.3/system/external_build_system/soa_project.c1168eb7/modules
+2018-12-27 18:01:54,182 [    723]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 344 ms
+2018-12-27 18:01:54,182 [    723]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2018-12-27 18:01:54,338 [    879]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-12-27 18:01:54,462 [   1003]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2018-12-27 18:01:54,466 [   1007]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled for JVM: true
+2018-12-27 18:01:54,466 [   1007]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled for JS: false
+2018-12-27 18:01:54,473 [   1014]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2018-12-27 18:01:54,473 [   1014]   INFO - kotlin.jps.build.KotlinBuilder - Label in local history: build started 68d03fa8
+2018-12-27 18:01:54,543 [   1084]   INFO - .incremental.IncProjectBuilder - Cleaned output directories in 4 ms
+2018-12-27 18:01:55,361 [   1902]   INFO - kotlin.jps.build.KotlinBuilder - KotlinTargetsIndex created in 715 ms
+2018-12-27 18:01:55,366 [   1907]   INFO - kotlin.jps.build.KotlinBuilder - Total Kotlin global compile context initialization time: 721 ms
+2018-12-27 18:01:55,381 [   1922]   INFO - s.incremental.java.JavaBuilder - Compiling 1 java files; module: SOA_project
+2018-12-27 18:01:55,990 [   2531]   INFO - brains.jps.incremental.Builder - Dependency analysis found 0 affected files
+2018-12-27 18:01:56,051 [   2592]   INFO - rains.jps.cmdline.BuildSession - Build duration: Builder 'Java' took 581 ms; 1 sources processed (581 ms per file)
+2018-12-27 18:01:56,058 [   2599]   INFO - s.incremental.java.JavaBuilder - javac 1.8.0_191 was used to compile [SOA_project]
+2018-12-27 18:01:56,570 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2018-12-27 18:01:56,570 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /snap/intellij-idea-ultimate/108/lib/jps-launcher.jar:/usr/lib/jvm/java-8-oracle/lib/tools.jar:/snap/intellij-idea-ultimate/108/lib/optimizedFileManager.jar
+2018-12-27 18:01:56,850 [    280]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 260 ms
+2018-12-27 18:01:56,932 [    362]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /home/hatem/Bureau/SOA_project, global options path = /home/hatem/.IntelliJIdea2018.3/config/options
+2018-12-27 18:01:57,241 [    671]   INFO - serialization.JpsProjectLoader - External project config dir is used: /home/hatem/.IntelliJIdea2018.3/system/external_build_system/soa_project.c1168eb7/project
+2018-12-27 18:01:57,250 [    680]   INFO - serialization.JpsProjectLoader - External project config dir is used for modules: /home/hatem/.IntelliJIdea2018.3/system/external_build_system/soa_project.c1168eb7/modules
+2018-12-27 18:01:57,351 [    781]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 419 ms
+2018-12-27 18:01:57,351 [    781]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2018-12-27 18:01:57,514 [    944]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-12-27 18:01:57,637 [   1067]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 1068 ms
+2018-12-27 18:02:37,061 [  40491]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2018-12-27 18:02:37,095 [  40525]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled for JVM: true
+2018-12-27 18:02:37,095 [  40525]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled for JS: false
+2018-12-27 18:02:37,100 [  40530]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2018-12-27 18:02:37,100 [  40530]   INFO - kotlin.jps.build.KotlinBuilder - Label in local history: build started e3a0b66
+2018-12-27 18:02:37,151 [  40581]   INFO - .incremental.IncProjectBuilder - Cleaned output directories in 4 ms
+2018-12-27 18:02:37,981 [  41411]   INFO - kotlin.jps.build.KotlinBuilder - KotlinTargetsIndex created in 774 ms
+2018-12-27 18:02:37,986 [  41416]   INFO - kotlin.jps.build.KotlinBuilder - Total Kotlin global compile context initialization time: 782 ms
+2018-12-27 18:02:38,004 [  41434]   INFO - s.incremental.java.JavaBuilder - Compiling 1 java files; module: SOA_project
+2018-12-27 18:02:38,632 [  42062]   INFO - brains.jps.incremental.Builder - Dependency analysis found 0 affected files
+2018-12-27 18:02:38,692 [  42122]   INFO - rains.jps.cmdline.BuildSession - Build duration: Builder 'Java' took 609 ms; 1 sources processed (609 ms per file)
+2018-12-27 18:02:38,700 [  42130]   INFO - s.incremental.java.JavaBuilder - javac 1.8.0_191 was used to compile [SOA_project]
+2018-12-27 18:02:39,108 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2018-12-27 18:02:39,109 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /snap/intellij-idea-ultimate/108/lib/jps-launcher.jar:/usr/lib/jvm/java-8-oracle/lib/tools.jar:/snap/intellij-idea-ultimate/108/lib/optimizedFileManager.jar
+2018-12-27 18:02:39,391 [    283]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 258 ms
+2018-12-27 18:02:39,466 [    358]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /home/hatem/Bureau/SOA_project, global options path = /home/hatem/.IntelliJIdea2018.3/config/options
+2018-12-27 18:02:39,708 [    600]   INFO - serialization.JpsProjectLoader - External project config dir is used: /home/hatem/.IntelliJIdea2018.3/system/external_build_system/soa_project.c1168eb7/project
+2018-12-27 18:02:39,716 [    608]   INFO - serialization.JpsProjectLoader - External project config dir is used for modules: /home/hatem/.IntelliJIdea2018.3/system/external_build_system/soa_project.c1168eb7/modules
+2018-12-27 18:02:39,816 [    708]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 350 ms
+2018-12-27 18:02:39,816 [    708]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2018-12-27 18:02:39,959 [    851]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-12-27 18:02:40,057 [    949]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 950 ms
+2018-12-27 18:03:37,035 [  57927]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2018-12-27 18:03:37,076 [  57968]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled for JVM: true
+2018-12-27 18:03:37,076 [  57968]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled for JS: false
+2018-12-27 18:03:37,081 [  57973]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2018-12-27 18:03:37,081 [  57973]   INFO - kotlin.jps.build.KotlinBuilder - Label in local history: build started 4e2343c0
+2018-12-27 18:03:37,128 [  58020]   INFO - .incremental.IncProjectBuilder - Cleaned output directories in 4 ms
+2018-12-27 18:03:37,925 [  58817]   INFO - kotlin.jps.build.KotlinBuilder - KotlinTargetsIndex created in 712 ms
+2018-12-27 18:03:37,932 [  58824]   INFO - kotlin.jps.build.KotlinBuilder - Total Kotlin global compile context initialization time: 723 ms
+2018-12-27 18:03:37,950 [  58842]   INFO - s.incremental.java.JavaBuilder - Compiling 1 java files; module: SOA_project
+2018-12-27 18:03:38,562 [  59454]   INFO - brains.jps.incremental.Builder - Dependency analysis found 0 affected files
+2018-12-27 18:03:38,625 [  59517]   INFO - rains.jps.cmdline.BuildSession - Build duration: Builder 'Java' took 595 ms; 1 sources processed (595 ms per file)
+2018-12-27 18:03:38,632 [  59524]   INFO - s.incremental.java.JavaBuilder - javac 1.8.0_191 was used to compile [SOA_project]
+2018-12-27 18:03:39,089 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2018-12-27 18:03:39,090 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /snap/intellij-idea-ultimate/108/lib/jps-launcher.jar:/usr/lib/jvm/java-8-oracle/lib/tools.jar:/snap/intellij-idea-ultimate/108/lib/optimizedFileManager.jar
+2018-12-27 18:03:39,351 [    262]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 236 ms
+2018-12-27 18:03:39,429 [    340]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /home/hatem/Bureau/SOA_project, global options path = /home/hatem/.IntelliJIdea2018.3/config/options
+2018-12-27 18:03:39,667 [    578]   INFO - serialization.JpsProjectLoader - External project config dir is used: /home/hatem/.IntelliJIdea2018.3/system/external_build_system/soa_project.c1168eb7/project
+2018-12-27 18:03:39,675 [    586]   INFO - serialization.JpsProjectLoader - External project config dir is used for modules: /home/hatem/.IntelliJIdea2018.3/system/external_build_system/soa_project.c1168eb7/modules
+2018-12-27 18:03:39,772 [    683]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 343 ms
+2018-12-27 18:03:39,772 [    683]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2018-12-27 18:03:39,917 [    828]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-12-27 18:03:40,015 [    926]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 928 ms
+2018-12-27 18:03:47,290 [   8201]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2018-12-27 18:03:47,294 [   8205]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled for JVM: true
+2018-12-27 18:03:47,294 [   8205]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled for JS: false
+2018-12-27 18:03:47,327 [   8238]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2018-12-27 18:03:47,327 [   8238]   INFO - kotlin.jps.build.KotlinBuilder - Label in local history: build started a318179f
+2018-12-27 18:03:47,376 [   8287]   INFO - .incremental.IncProjectBuilder - Cleaned output directories in 2 ms
+2018-12-27 18:03:48,054 [   8965]   INFO - kotlin.jps.build.KotlinBuilder - KotlinTargetsIndex created in 649 ms
+2018-12-27 18:03:48,058 [   8969]   INFO - kotlin.jps.build.KotlinBuilder - Total Kotlin global compile context initialization time: 654 ms
+2018-12-27 18:03:48,514 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2018-12-27 18:03:48,514 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /snap/intellij-idea-ultimate/108/lib/jps-launcher.jar:/usr/lib/jvm/java-8-oracle/lib/tools.jar:/snap/intellij-idea-ultimate/108/lib/optimizedFileManager.jar
+2018-12-27 18:03:48,783 [    269]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 248 ms
+2018-12-27 18:03:48,859 [    345]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /home/hatem/Bureau/SOA_project, global options path = /home/hatem/.IntelliJIdea2018.3/config/options
+2018-12-27 18:03:49,108 [    594]   INFO - serialization.JpsProjectLoader - External project config dir is used: /home/hatem/.IntelliJIdea2018.3/system/external_build_system/soa_project.c1168eb7/project
+2018-12-27 18:03:49,117 [    603]   INFO - serialization.JpsProjectLoader - External project config dir is used for modules: /home/hatem/.IntelliJIdea2018.3/system/external_build_system/soa_project.c1168eb7/modules
+2018-12-27 18:03:49,209 [    695]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 350 ms
+2018-12-27 18:03:49,210 [    696]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2018-12-27 18:03:49,344 [    830]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-12-27 18:03:49,447 [    933]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 935 ms
+2018-12-27 18:19:20,375 [ 931861]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2018-12-27 18:19:20,378 [ 931864]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled for JVM: true
+2018-12-27 18:19:20,378 [ 931864]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled for JS: false
+2018-12-27 18:19:20,383 [ 931869]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2018-12-27 18:19:20,383 [ 931869]   INFO - kotlin.jps.build.KotlinBuilder - Label in local history: build started 4234dbb5
+2018-12-27 18:19:20,428 [ 931914]   INFO - .incremental.IncProjectBuilder - Cleaned output directories in 3 ms
+2018-12-27 18:19:21,067 [ 932553]   INFO - kotlin.jps.build.KotlinBuilder - KotlinTargetsIndex created in 604 ms
+2018-12-27 18:19:21,071 [ 932557]   INFO - kotlin.jps.build.KotlinBuilder - Total Kotlin global compile context initialization time: 610 ms
+2018-12-27 18:19:21,089 [ 932575]   INFO - s.incremental.java.JavaBuilder - Compiling 1 java files; module: SOA_project
+2018-12-27 18:19:21,708 [ 933194]   INFO - brains.jps.incremental.Builder - Dependency analysis found 0 affected files
+2018-12-27 18:19:21,770 [ 933256]   INFO - rains.jps.cmdline.BuildSession - Build duration: Builder 'Java' took 599 ms; 1 sources processed (599 ms per file)
+2018-12-27 18:19:21,777 [ 933263]   INFO - s.incremental.java.JavaBuilder - javac 1.8.0_191 was used to compile [SOA_project]
+2018-12-27 18:19:22,237 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2018-12-27 18:19:22,238 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /snap/intellij-idea-ultimate/108/lib/jps-launcher.jar:/usr/lib/jvm/java-8-oracle/lib/tools.jar:/snap/intellij-idea-ultimate/108/lib/optimizedFileManager.jar
+2018-12-27 18:19:22,523 [    286]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 265 ms
+2018-12-27 18:19:22,598 [    361]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /home/hatem/Bureau/SOA_project, global options path = /home/hatem/.IntelliJIdea2018.3/config/options
+2018-12-27 18:19:22,837 [    600]   INFO - serialization.JpsProjectLoader - External project config dir is used: /home/hatem/.IntelliJIdea2018.3/system/external_build_system/soa_project.c1168eb7/project
+2018-12-27 18:19:22,845 [    608]   INFO - serialization.JpsProjectLoader - External project config dir is used for modules: /home/hatem/.IntelliJIdea2018.3/system/external_build_system/soa_project.c1168eb7/modules
+2018-12-27 18:19:22,949 [    712]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 351 ms
+2018-12-27 18:19:22,949 [    712]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2018-12-27 18:19:23,074 [    837]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-12-27 18:19:23,168 [    931]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 934 ms
+2018-12-27 18:23:03,928 [ 221691]   INFO - rains.jps.cmdline.BuildSession - No changes found since last build. Exiting.
+2018-12-27 18:23:04,347 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2018-12-27 18:23:04,348 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /snap/intellij-idea-ultimate/108/lib/jps-launcher.jar:/usr/lib/jvm/java-8-oracle/lib/tools.jar:/snap/intellij-idea-ultimate/108/lib/optimizedFileManager.jar
+2018-12-27 18:23:04,611 [    264]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 245 ms
+2018-12-27 18:23:04,689 [    342]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /home/hatem/Bureau/SOA_project, global options path = /home/hatem/.IntelliJIdea2018.3/config/options
+2018-12-27 18:23:04,926 [    579]   INFO - serialization.JpsProjectLoader - External project config dir is used: /home/hatem/.IntelliJIdea2018.3/system/external_build_system/soa_project.c1168eb7/project
+2018-12-27 18:23:04,934 [    587]   INFO - serialization.JpsProjectLoader - External project config dir is used for modules: /home/hatem/.IntelliJIdea2018.3/system/external_build_system/soa_project.c1168eb7/modules
+2018-12-27 18:23:05,046 [    699]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 357 ms
+2018-12-27 18:23:05,046 [    699]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2018-12-27 18:23:05,168 [    821]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-12-27 18:23:05,266 [    919]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 920 ms
+2018-12-27 18:24:42,451 [  98104]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2018-12-27 18:24:42,454 [  98107]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled for JVM: true
+2018-12-27 18:24:42,454 [  98107]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled for JS: false
+2018-12-27 18:24:42,458 [  98111]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2018-12-27 18:24:42,458 [  98111]   INFO - kotlin.jps.build.KotlinBuilder - Label in local history: build started 5d4c4617
+2018-12-27 18:24:42,502 [  98155]   INFO - .incremental.IncProjectBuilder - Cleaned output directories in 3 ms
+2018-12-27 18:24:43,081 [  98734]   INFO - kotlin.jps.build.KotlinBuilder - KotlinTargetsIndex created in 549 ms
+2018-12-27 18:24:43,085 [  98738]   INFO - kotlin.jps.build.KotlinBuilder - Total Kotlin global compile context initialization time: 555 ms
+2018-12-27 18:24:43,099 [  98752]   INFO - s.incremental.java.JavaBuilder - Compiling 1 java files; module: SOA_project
+2018-12-27 18:24:43,654 [  99307]   INFO - brains.jps.incremental.Builder - Dependency analysis found 0 affected files
+2018-12-27 18:24:43,722 [  99375]   INFO - rains.jps.cmdline.BuildSession - Build duration: Builder 'Java' took 535 ms; 1 sources processed (535 ms per file)
+2018-12-27 18:24:43,729 [  99382]   INFO - s.incremental.java.JavaBuilder - javac 1.8.0_191 was used to compile [SOA_project]
+2018-12-27 18:24:44,150 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2018-12-27 18:24:44,151 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /snap/intellij-idea-ultimate/108/lib/jps-launcher.jar:/usr/lib/jvm/java-8-oracle/lib/tools.jar:/snap/intellij-idea-ultimate/108/lib/optimizedFileManager.jar
+2018-12-27 18:24:44,447 [    297]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 263 ms
+2018-12-27 18:24:44,525 [    375]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /home/hatem/Bureau/SOA_project, global options path = /home/hatem/.IntelliJIdea2018.3/config/options
+2018-12-27 18:24:44,762 [    612]   INFO - serialization.JpsProjectLoader - External project config dir is used: /home/hatem/.IntelliJIdea2018.3/system/external_build_system/soa_project.c1168eb7/project
+2018-12-27 18:24:44,767 [    617]   INFO - serialization.JpsProjectLoader - External project config dir is used for modules: /home/hatem/.IntelliJIdea2018.3/system/external_build_system/soa_project.c1168eb7/modules
+2018-12-27 18:24:44,864 [    714]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 339 ms
+2018-12-27 18:24:44,864 [    714]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2018-12-27 18:24:45,015 [    865]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-12-27 18:24:45,112 [    962]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 964 ms
+2018-12-27 18:27:55,651 [ 191501]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2018-12-27 18:27:55,654 [ 191504]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled for JVM: true
+2018-12-27 18:27:55,654 [ 191504]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled for JS: false
+2018-12-27 18:27:55,659 [ 191509]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2018-12-27 18:27:55,659 [ 191509]   INFO - kotlin.jps.build.KotlinBuilder - Label in local history: build started 5d1961be
+2018-12-27 18:27:55,704 [ 191554]   INFO - .incremental.IncProjectBuilder - Cleaned output directories in 3 ms
+2018-12-27 18:27:56,330 [ 192180]   INFO - kotlin.jps.build.KotlinBuilder - KotlinTargetsIndex created in 597 ms
+2018-12-27 18:27:56,334 [ 192184]   INFO - kotlin.jps.build.KotlinBuilder - Total Kotlin global compile context initialization time: 603 ms
+2018-12-27 18:27:56,350 [ 192200]   INFO - s.incremental.java.JavaBuilder - Compiling 1 java files; module: SOA_project
+2018-12-27 18:27:56,911 [ 192761]   INFO - brains.jps.incremental.Builder - Dependency analysis found 0 affected files
+2018-12-27 18:27:56,970 [ 192820]   INFO - rains.jps.cmdline.BuildSession - Build duration: Builder 'Java' took 540 ms; 1 sources processed (540 ms per file)
+2018-12-27 18:27:56,977 [ 192827]   INFO - s.incremental.java.JavaBuilder - javac 1.8.0_191 was used to compile [SOA_project]
+2018-12-27 18:27:57,402 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2018-12-27 18:27:57,403 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /snap/intellij-idea-ultimate/108/lib/jps-launcher.jar:/usr/lib/jvm/java-8-oracle/lib/tools.jar:/snap/intellij-idea-ultimate/108/lib/optimizedFileManager.jar
+2018-12-27 18:27:57,673 [    271]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 245 ms
+2018-12-27 18:27:57,752 [    350]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /home/hatem/Bureau/SOA_project, global options path = /home/hatem/.IntelliJIdea2018.3/config/options
+2018-12-27 18:27:57,988 [    586]   INFO - serialization.JpsProjectLoader - External project config dir is used: /home/hatem/.IntelliJIdea2018.3/system/external_build_system/soa_project.c1168eb7/project
+2018-12-27 18:27:57,996 [    594]   INFO - serialization.JpsProjectLoader - External project config dir is used for modules: /home/hatem/.IntelliJIdea2018.3/system/external_build_system/soa_project.c1168eb7/modules
+2018-12-27 18:27:58,093 [    691]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 341 ms
+2018-12-27 18:27:58,094 [    692]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2018-12-27 18:27:58,246 [    844]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-12-27 18:27:58,342 [    940]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 942 ms
+2018-12-27 18:28:21,172 [  23770]   INFO - rains.jps.cmdline.BuildSession - No changes found since last build. Exiting.
+2018-12-27 18:28:21,629 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2018-12-27 18:28:21,629 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /snap/intellij-idea-ultimate/108/lib/jps-launcher.jar:/usr/lib/jvm/java-8-oracle/lib/tools.jar:/snap/intellij-idea-ultimate/108/lib/optimizedFileManager.jar
+2018-12-27 18:28:21,905 [    276]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 256 ms
+2018-12-27 18:28:21,983 [    354]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /home/hatem/Bureau/SOA_project, global options path = /home/hatem/.IntelliJIdea2018.3/config/options
+2018-12-27 18:28:22,218 [    589]   INFO - serialization.JpsProjectLoader - External project config dir is used: /home/hatem/.IntelliJIdea2018.3/system/external_build_system/soa_project.c1168eb7/project
+2018-12-27 18:28:22,227 [    598]   INFO - serialization.JpsProjectLoader - External project config dir is used for modules: /home/hatem/.IntelliJIdea2018.3/system/external_build_system/soa_project.c1168eb7/modules
+2018-12-27 18:28:22,326 [    697]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 343 ms
+2018-12-27 18:28:22,326 [    697]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2018-12-27 18:28:22,483 [    854]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-12-27 18:28:22,580 [    951]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 952 ms
+2018-12-27 19:07:58,052 [2376423]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2018-12-27 19:07:58,055 [2376426]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled for JVM: true
+2018-12-27 19:07:58,055 [2376426]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled for JS: false
+2018-12-27 19:07:58,060 [2376431]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2018-12-27 19:07:58,060 [2376431]   INFO - kotlin.jps.build.KotlinBuilder - Label in local history: build started bf6b7e94
+2018-12-27 19:07:58,104 [2376475]   INFO - .incremental.IncProjectBuilder - Cleaned output directories in 3 ms
+2018-12-27 19:07:58,747 [2377118]   INFO - kotlin.jps.build.KotlinBuilder - KotlinTargetsIndex created in 608 ms
+2018-12-27 19:07:58,751 [2377122]   INFO - kotlin.jps.build.KotlinBuilder - Total Kotlin global compile context initialization time: 615 ms
+2018-12-27 19:07:58,764 [2377135]   INFO - s.incremental.java.JavaBuilder - Compiling 2 java files; module: SOA_project
+2018-12-27 19:07:59,447 [2377818]   INFO - brains.jps.incremental.Builder - Dependency analysis found 0 affected files
+2018-12-27 19:07:59,532 [2377903]   INFO - rains.jps.cmdline.BuildSession - Build duration: Builder 'Java' took 654 ms; 2 sources processed (327 ms per file)
+2018-12-27 19:07:59,539 [2377910]   INFO - s.incremental.java.JavaBuilder - javac 1.8.0_191 was used to compile [SOA_project]
+2018-12-27 19:07:59,984 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2018-12-27 19:07:59,985 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /snap/intellij-idea-ultimate/108/lib/jps-launcher.jar:/usr/lib/jvm/java-8-oracle/lib/tools.jar:/snap/intellij-idea-ultimate/108/lib/optimizedFileManager.jar
+2018-12-27 19:08:00,279 [    295]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 267 ms
+2018-12-27 19:08:00,356 [    372]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /home/hatem/Bureau/SOA_project, global options path = /home/hatem/.IntelliJIdea2018.3/config/options
+2018-12-27 19:08:00,610 [    626]   INFO - serialization.JpsProjectLoader - External project config dir is used: /home/hatem/.IntelliJIdea2018.3/system/external_build_system/soa_project.c1168eb7/project
+2018-12-27 19:08:00,618 [    634]   INFO - serialization.JpsProjectLoader - External project config dir is used for modules: /home/hatem/.IntelliJIdea2018.3/system/external_build_system/soa_project.c1168eb7/modules
+2018-12-27 19:08:00,727 [    743]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 371 ms
+2018-12-27 19:08:00,728 [    744]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2018-12-27 19:08:00,867 [    883]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-12-27 19:08:00,964 [    980]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 983 ms
+2018-12-27 19:17:52,854 [ 592870]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2018-12-27 19:17:52,860 [ 592876]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled for JVM: true
+2018-12-27 19:17:52,860 [ 592876]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled for JS: false
+2018-12-27 19:17:52,880 [ 592896]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2018-12-27 19:17:52,880 [ 592896]   INFO - kotlin.jps.build.KotlinBuilder - Label in local history: build started a5149533
+2018-12-27 19:17:53,050 [ 593066]   INFO - .incremental.IncProjectBuilder - Cleaned output directories in 7 ms
+2018-12-27 19:17:54,002 [ 594018]   INFO - kotlin.jps.build.KotlinBuilder - KotlinTargetsIndex created in 892 ms
+2018-12-27 19:17:54,007 [ 594023]   INFO - kotlin.jps.build.KotlinBuilder - Total Kotlin global compile context initialization time: 900 ms
+2018-12-27 19:17:54,026 [ 594042]   INFO - s.incremental.java.JavaBuilder - Compiling 1 java files; module: SOA_project
+2018-12-27 19:17:54,662 [ 594678]   INFO - brains.jps.incremental.Builder - Dependency analysis found 0 affected files
+2018-12-27 19:17:54,724 [ 594740]   INFO - rains.jps.cmdline.BuildSession - Build duration: Builder 'Java' took 616 ms; 1 sources processed (616 ms per file)
+2018-12-27 19:17:54,731 [ 594747]   INFO - s.incremental.java.JavaBuilder - javac 1.8.0_191 was used to compile [SOA_project]
+2018-12-27 19:17:55,238 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2018-12-27 19:17:55,238 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /snap/intellij-idea-ultimate/108/lib/jps-launcher.jar:/usr/lib/jvm/java-8-oracle/lib/tools.jar:/snap/intellij-idea-ultimate/108/lib/optimizedFileManager.jar
+2018-12-27 19:17:55,547 [    309]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 287 ms
+2018-12-27 19:17:55,627 [    389]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /home/hatem/Bureau/SOA_project, global options path = /home/hatem/.IntelliJIdea2018.3/config/options
+2018-12-27 19:17:55,889 [    651]   INFO - serialization.JpsProjectLoader - External project config dir is used: /home/hatem/.IntelliJIdea2018.3/system/external_build_system/soa_project.c1168eb7/project
+2018-12-27 19:17:55,897 [    659]   INFO - serialization.JpsProjectLoader - External project config dir is used for modules: /home/hatem/.IntelliJIdea2018.3/system/external_build_system/soa_project.c1168eb7/modules
+2018-12-27 19:17:56,001 [    763]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 374 ms
+2018-12-27 19:17:56,001 [    763]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2018-12-27 19:17:56,138 [    900]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-12-27 19:17:56,232 [    994]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 996 ms
+2018-12-27 19:18:25,075 [  29837]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2018-12-27 19:18:25,079 [  29841]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled for JVM: true
+2018-12-27 19:18:25,079 [  29841]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled for JS: false
+2018-12-27 19:18:25,086 [  29848]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2018-12-27 19:18:25,086 [  29848]   INFO - kotlin.jps.build.KotlinBuilder - Label in local history: build started ca59c619
+2018-12-27 19:18:25,137 [  29899]   INFO - .incremental.IncProjectBuilder - Cleaned output directories in 2 ms
+2018-12-27 19:18:25,738 [  30500]   INFO - kotlin.jps.build.KotlinBuilder - KotlinTargetsIndex created in 561 ms
+2018-12-27 19:18:25,744 [  30506]   INFO - kotlin.jps.build.KotlinBuilder - Total Kotlin global compile context initialization time: 569 ms
+2018-12-27 19:18:25,759 [  30521]   INFO - s.incremental.java.JavaBuilder - Compiling 1 java files; module: SOA_project
+2018-12-27 19:18:26,349 [  31111]   INFO - brains.jps.incremental.Builder - Dependency analysis found 0 affected files
+2018-12-27 19:18:26,418 [  31180]   INFO - rains.jps.cmdline.BuildSession - Build duration: Builder 'Java' took 570 ms; 1 sources processed (570 ms per file)
+2018-12-27 19:18:26,425 [  31187]   INFO - s.incremental.java.JavaBuilder - javac 1.8.0_191 was used to compile [SOA_project]
+2018-12-27 19:18:26,864 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2018-12-27 19:18:26,864 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /snap/intellij-idea-ultimate/108/lib/jps-launcher.jar:/usr/lib/jvm/java-8-oracle/lib/tools.jar:/snap/intellij-idea-ultimate/108/lib/optimizedFileManager.jar
+2018-12-27 19:18:27,114 [    250]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 231 ms
+2018-12-27 19:18:27,197 [    333]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /home/hatem/Bureau/SOA_project, global options path = /home/hatem/.IntelliJIdea2018.3/config/options
+2018-12-27 19:18:27,441 [    577]   INFO - serialization.JpsProjectLoader - External project config dir is used: /home/hatem/.IntelliJIdea2018.3/system/external_build_system/soa_project.c1168eb7/project
+2018-12-27 19:18:27,452 [    588]   INFO - serialization.JpsProjectLoader - External project config dir is used for modules: /home/hatem/.IntelliJIdea2018.3/system/external_build_system/soa_project.c1168eb7/modules
+2018-12-27 19:18:27,555 [    691]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 358 ms
+2018-12-27 19:18:27,555 [    691]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2018-12-27 19:18:27,705 [    841]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-12-27 19:18:27,801 [    937]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 939 ms
+2018-12-27 19:32:02,592 [ 815728]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2018-12-27 19:32:02,595 [ 815731]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled for JVM: true
+2018-12-27 19:32:02,595 [ 815731]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled for JS: false
+2018-12-27 19:32:02,600 [ 815736]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2018-12-27 19:32:02,600 [ 815736]   INFO - kotlin.jps.build.KotlinBuilder - Label in local history: build started aecd8e3d
+2018-12-27 19:32:02,648 [ 815784]   INFO - .incremental.IncProjectBuilder - Cleaned output directories in 3 ms
+2018-12-27 19:32:03,272 [ 816408]   INFO - kotlin.jps.build.KotlinBuilder - KotlinTargetsIndex created in 593 ms
+2018-12-27 19:32:03,276 [ 816412]   INFO - kotlin.jps.build.KotlinBuilder - Total Kotlin global compile context initialization time: 598 ms
+2018-12-27 19:32:03,295 [ 816431]   INFO - s.incremental.java.JavaBuilder - Compiling 2 java files; module: SOA_project
+2018-12-27 19:32:04,097 [ 817233]   INFO - brains.jps.incremental.Builder - Dependency analysis found 0 affected files
+2018-12-27 19:32:04,187 [ 817323]   INFO - rains.jps.cmdline.BuildSession - Build duration: Builder 'Java' took 773 ms; 2 sources processed (386 ms per file)
+2018-12-27 19:32:04,200 [ 817336]   INFO - s.incremental.java.JavaBuilder - javac 1.8.0_191 was used to compile [SOA_project]
+2018-12-27 19:32:04,691 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2018-12-27 19:32:04,691 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /snap/intellij-idea-ultimate/108/lib/jps-launcher.jar:/usr/lib/jvm/java-8-oracle/lib/tools.jar:/snap/intellij-idea-ultimate/108/lib/optimizedFileManager.jar
+2018-12-27 19:32:04,975 [    284]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 264 ms
+2018-12-27 19:32:05,052 [    361]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /home/hatem/Bureau/SOA_project, global options path = /home/hatem/.IntelliJIdea2018.3/config/options
+2018-12-27 19:32:05,302 [    611]   INFO - serialization.JpsProjectLoader - External project config dir is used: /home/hatem/.IntelliJIdea2018.3/system/external_build_system/soa_project.c1168eb7/project
+2018-12-27 19:32:05,313 [    622]   INFO - serialization.JpsProjectLoader - External project config dir is used for modules: /home/hatem/.IntelliJIdea2018.3/system/external_build_system/soa_project.c1168eb7/modules
+2018-12-27 19:32:05,427 [    736]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 375 ms
+2018-12-27 19:32:05,427 [    736]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2018-12-27 19:32:05,586 [    895]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-12-27 19:32:05,695 [   1004]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 1006 ms
+2018-12-27 19:33:33,514 [  88823]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2018-12-27 19:33:33,518 [  88827]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled for JVM: true
+2018-12-27 19:33:33,518 [  88827]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled for JS: false
+2018-12-27 19:33:33,523 [  88832]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2018-12-27 19:33:33,523 [  88832]   INFO - kotlin.jps.build.KotlinBuilder - Label in local history: build started 9d212f76
+2018-12-27 19:33:33,567 [  88876]   INFO - .incremental.IncProjectBuilder - Cleaned output directories in 3 ms
+2018-12-27 19:33:34,197 [  89506]   INFO - kotlin.jps.build.KotlinBuilder - KotlinTargetsIndex created in 593 ms
+2018-12-27 19:33:34,201 [  89510]   INFO - kotlin.jps.build.KotlinBuilder - Total Kotlin global compile context initialization time: 599 ms
+2018-12-27 19:33:34,214 [  89523]   INFO - s.incremental.java.JavaBuilder - Compiling 1 java files; module: SOA_project
+2018-12-27 19:33:34,903 [  90212]   INFO - brains.jps.incremental.Builder - Dependency analysis found 0 affected files
+2018-12-27 19:33:34,965 [  90274]   INFO - rains.jps.cmdline.BuildSession - Build duration: Builder 'Java' took 663 ms; 1 sources processed (663 ms per file)
+2018-12-27 19:33:34,970 [  90279]   INFO - s.incremental.java.JavaBuilder - javac 1.8.0_191 was used to compile [SOA_project]
+2018-12-27 19:33:35,430 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2018-12-27 19:33:35,431 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /snap/intellij-idea-ultimate/108/lib/jps-launcher.jar:/usr/lib/jvm/java-8-oracle/lib/tools.jar:/snap/intellij-idea-ultimate/108/lib/optimizedFileManager.jar
+2018-12-27 19:33:35,695 [    265]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 238 ms
+2018-12-27 19:33:35,775 [    345]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /home/hatem/Bureau/SOA_project, global options path = /home/hatem/.IntelliJIdea2018.3/config/options
+2018-12-27 19:33:36,021 [    591]   INFO - serialization.JpsProjectLoader - External project config dir is used: /home/hatem/.IntelliJIdea2018.3/system/external_build_system/soa_project.c1168eb7/project
+2018-12-27 19:33:36,032 [    602]   INFO - serialization.JpsProjectLoader - External project config dir is used for modules: /home/hatem/.IntelliJIdea2018.3/system/external_build_system/soa_project.c1168eb7/modules
+2018-12-27 19:33:36,143 [    713]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 368 ms
+2018-12-27 19:33:36,143 [    713]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2018-12-27 19:33:36,282 [    852]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-12-27 19:33:36,378 [    948]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 956 ms
+2018-12-29 17:57:35,863 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2018-12-29 17:57:35,883 [     20]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /snap/intellij-idea-ultimate/108/lib/jps-launcher.jar:/usr/lib/jvm/java-8-oracle/lib/tools.jar:/snap/intellij-idea-ultimate/108/lib/optimizedFileManager.jar
+2018-12-29 17:57:36,544 [    681]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 621 ms
+2018-12-29 17:57:37,358 [   1495]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /home/hatem/Bureau/SOA_project, global options path = /home/hatem/.IntelliJIdea2018.3/config/options
+2018-12-29 17:57:38,420 [   2557]   INFO - serialization.JpsProjectLoader - External project config dir is used: /home/hatem/.IntelliJIdea2018.3/system/external_build_system/soa_project.c1168eb7/project
+2018-12-29 17:57:38,439 [   2576]   INFO - serialization.JpsProjectLoader - External project config dir is used for modules: /home/hatem/.IntelliJIdea2018.3/system/external_build_system/soa_project.c1168eb7/modules
+2018-12-29 17:57:38,803 [   2940]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 1445 ms
+2018-12-29 17:57:38,803 [   2940]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2018-12-29 17:57:39,269 [   3406]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-12-29 17:57:41,526 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2018-12-29 17:57:41,527 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /snap/intellij-idea-ultimate/108/lib/jps-launcher.jar:/usr/lib/jvm/java-8-oracle/lib/tools.jar:/snap/intellij-idea-ultimate/108/lib/optimizedFileManager.jar
+2018-12-29 17:57:42,225 [    699]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 652 ms
+2018-12-29 17:57:42,476 [    950]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /home/hatem/Bureau/SOA_project, global options path = /home/hatem/.IntelliJIdea2018.3/config/options
+2018-12-29 17:57:43,191 [   1665]   INFO - serialization.JpsProjectLoader - External project config dir is used: /home/hatem/.IntelliJIdea2018.3/system/external_build_system/soa_project.c1168eb7/project
+2018-12-29 17:57:43,207 [   1681]   INFO - serialization.JpsProjectLoader - External project config dir is used for modules: /home/hatem/.IntelliJIdea2018.3/system/external_build_system/soa_project.c1168eb7/modules
+2018-12-29 17:57:43,441 [   1915]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 965 ms
+2018-12-29 17:57:43,441 [   1915]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2018-12-29 17:57:43,792 [   2266]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-12-29 17:57:44,042 [   2516]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 2517 ms
+2018-12-29 17:57:46,696 [   5170]   INFO - etbrains.jps.cmdline.BuildMain - Build canceled, but no build session is running. Exiting.
+2018-12-30 13:25:50,945 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2018-12-30 13:25:50,970 [     25]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /snap/intellij-idea-ultimate/108/lib/jps-launcher.jar:/usr/lib/jvm/java-8-oracle/lib/tools.jar:/snap/intellij-idea-ultimate/108/lib/optimizedFileManager.jar
+2018-12-30 13:25:52,005 [   1060]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 972 ms
+2018-12-30 13:25:52,970 [   2025]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /home/hatem/Bureau/SOA_project, global options path = /home/hatem/.IntelliJIdea2018.3/config/options
+2018-12-30 13:25:53,900 [   2955]   INFO - serialization.JpsProjectLoader - External project config dir is used: /home/hatem/.IntelliJIdea2018.3/system/external_build_system/soa_project.c1168eb7/project
+2018-12-30 13:25:53,913 [   2968]   INFO - serialization.JpsProjectLoader - External project config dir is used for modules: /home/hatem/.IntelliJIdea2018.3/system/external_build_system/soa_project.c1168eb7/modules
+2018-12-30 13:25:54,787 [   3842]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 1817 ms
+2018-12-30 13:25:54,788 [   3843]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2018-12-30 13:25:55,426 [   4481]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-12-30 13:25:57,490 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2018-12-30 13:25:57,491 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /snap/intellij-idea-ultimate/108/lib/jps-launcher.jar:/usr/lib/jvm/java-8-oracle/lib/tools.jar:/snap/intellij-idea-ultimate/108/lib/optimizedFileManager.jar
+2018-12-30 13:25:58,159 [    669]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 614 ms
+2018-12-30 13:25:58,383 [    893]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /home/hatem/Bureau/SOA_project, global options path = /home/hatem/.IntelliJIdea2018.3/config/options
+2018-12-30 13:25:59,276 [   1786]   INFO - serialization.JpsProjectLoader - External project config dir is used: /home/hatem/.IntelliJIdea2018.3/system/external_build_system/soa_project.c1168eb7/project
+2018-12-30 13:25:59,302 [   1812]   INFO - serialization.JpsProjectLoader - External project config dir is used for modules: /home/hatem/.IntelliJIdea2018.3/system/external_build_system/soa_project.c1168eb7/modules
+2018-12-30 13:25:59,604 [   2114]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 1221 ms
+2018-12-30 13:25:59,604 [   2114]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2018-12-30 13:25:59,880 [   2390]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-12-30 13:26:00,105 [   2615]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 2624 ms
+2018-12-30 13:48:33,978 [1356488]   INFO - etbrains.jps.cmdline.BuildMain - Build canceled, but no build session is running. Exiting.

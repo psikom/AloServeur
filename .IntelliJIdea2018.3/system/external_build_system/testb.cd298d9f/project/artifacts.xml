@@ -1,0 +1,35 @@
+<component name="ArtifactManager">
+  <artifact type="war" __external-system-id="Maven" name="testb:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>testb</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="testb.war">
+      <element id="artifact" artifact-name="testb:war exploded" />
+    </root>
+  </artifact>
+  <artifact type="exploded-war" __external-system-id="Maven" name="testb:war exploded">
+    <output-path>$PROJECT_DIR$/target/testb</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <exploded>true</exploded>
+        <module>testb</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="testb" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/target/testb/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="testb/web/Web" />
+    </root>
+  </artifact>
+</component>

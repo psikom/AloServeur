@@ -1,0 +1,7 @@
+<project>
+  <component name="ExternalCompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="HospitalClient" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

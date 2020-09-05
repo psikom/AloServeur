@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FUSProjectUsageTrigger">
+    <session id="-101025547">
+      <usages-collector id="statistics.lifecycle.project">
+        <usage id="project.opened" value="1" />
+        <usage id="project.open.time.4" value="1" />
+        <usage id="project.closed" value="1" />
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <usage id="JAVA" value="1" />
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <usage id="JAVA" value="1" />
+      </usages-collector>
+      <usages-collector id="statistics.terminal">
+        <usage id="local.exec" value="1">
+          <context>
+            <entry key="data_1" value="Linux" />
+            <entry key="data_2" value="Linux 4.4.0-138-generic" />
+            <entry key="data_3" value="bash" />
+          </context>
+        </usage>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectUserFactors">
+    <factor id="binaryFeature:frozen">
+      <dailyData date="15-11-2018">
+        <observation name="true" value="2,0" />
+      </dailyData>
+    </factor>
+    <factor id="binaryFeature:liftShorter">
+      <dailyData date="15-11-2018">
+        <observation name="false" value="2,0" />
+      </dailyData>
+    </factor>
+    <factor id="binaryFeature:liftShorterClasses">
+      <dailyData date="15-11-2018">
+        <observation name="false" value="2,0" />
+      </dailyData>
+    </factor>
+    <factor id="binaryFeature:middleMatching">
+      <dailyData date="15-11-2018">
+        <observation name="false" value="2,0" />
+      </dailyData>
+    </factor>
+    <factor id="binaryFeature:nonGeneric">
+      <dailyData date="15-11-2018">
+        <observation name="UNDEFINED" value="2,0" />
+      </dailyData>
+    </factor>
+    <factor id="binaryFeature:prox_inResolveScope">
+      <dailyData date="15-11-2018">
+        <observation name="true" value="2,0" />
+      </dailyData>
+    </factor>
+    <factor id="binaryFeature:prox_openedInEditor">
+      <dailyData date="15-11-2018">
+        <observation name="false" value="2,0" />
+      </dailyData>
+    </factor>
+    <factor id="binaryFeature:prox_rubyOwnCode">
+      <dailyData date="15-11-2018">
+        <observation name="UNDEFINED" value="2,0" />
+      </dailyData>
+    </factor>
+    <factor id="binaryFeature:prox_sameDirectory">
+      <dailyData date="15-11-2018">
+        <observation name="false" value="2,0" />
+      </dailyData>
+    </factor>
+    <factor id="binaryFeature:prox_sameLogicalRoot">
+      <dailyData date="15-11-2018">
+        <observation name="false" value="2,0" />
+      </dailyData>
+    </factor>
+    <factor id="binaryFeature:prox_sdkOrLibrary">
+      <dailyData date="15-11-2018">
+        <observation name="true" value="2,0" />
+      </dailyData>
+    </factor>
+    <factor id="binaryFeature:simple">
+      <dailyData date="15-11-2018">
+        <observation name="0" value="2,0" />
+      </dailyData>
+    </factor>
+    <factor id="binaryFeature:sorter">
+      <dailyData date="15-11-2018">
+        <observation name="1" value="2,0" />
+      </dailyData>
+    </factor>
+    <factor id="binaryFeature:templates">
+      <dailyData date="15-11-2018">
+        <observation name="false" value="2,0" />
+      </dailyData>
+    </factor>
+    <factor id="categoricalFeature:expectedType">
+      <dailyData date="15-11-2018">
+        <observation name="normal" value="2,0" />
+      </dailyData>
+    </factor>
+    <factor id="categoricalFeature:kind">
+      <dailyData date="15-11-2018">
+        <observation name="OTHER" value="1,0" />
+        <observation name="suitableClass" value="1,0" />
+      </dailyData>
+    </factor>
+    <factor id="categoricalFeature:ml_rank">
+      <dailyData date="15-11-2018">
+        <observation name="NONE" value="2,0" />
+      </dailyData>
+    </factor>
+    <factor id="categoricalFeature:recursion">
+      <dailyData date="15-11-2018">
+        <observation name="UNDEFINED" value="1,0" />
+        <observation name="normal" value="1,0" />
+      </dailyData>
+    </factor>
+    <factor id="completionFinishedType">
+      <dailyData date="15-11-2018">
+        <observation name="cancelled" value="4,0" />
+        <observation name="explicitSelect" value="2,0" />
+      </dailyData>
+    </factor>
+    <factor id="completionType">
+      <dailyData date="15-11-2018">
+        <observation name="BASIC" value="2,0" />
+      </dailyData>
+    </factor>
+    <factor id="completionUsage">
+      <dailyData date="15-11-2018">
+        <observation name="count" value="6,0" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:explicitProximity">
+      <dailyData date="15-11-2018">
+        <observation name="average" value="0,0" />
+        <observation name="count" value="3,0" />
+        <observation name="max" value="0,0" />
+        <observation name="min" value="0,0" />
+        <observation name="variance" value="0,0" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:grouping">
+      <dailyData date="15-11-2018">
+        <observation name="average" value="0,0" />
+        <observation name="count" value="3,0" />
+        <observation name="max" value="0,0" />
+        <observation name="min" value="0,0" />
+        <observation name="variance" value="0,0" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:mostUsed">
+      <dailyData date="15-11-2018">
+        <observation name="UNDEFINED" value="2,0" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:position">
+      <dailyData date="15-11-2018">
+        <observation name="average" value="0,333333" />
+        <observation name="count" value="3,0" />
+        <observation name="max" value="1,0" />
+        <observation name="min" value="0,0" />
+        <observation name="variance" value="0,055556" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:prefix">
+      <dailyData date="15-11-2018">
+        <observation name="average" value="-1118,666667" />
+        <observation name="count" value="3,0" />
+        <observation name="max" value="-1052,0" />
+        <observation name="min" value="-1152,0" />
+        <observation name="variance" value="555,555556" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:prox_explicitlyImported">
+      <dailyData date="15-11-2018">
+        <observation name="average" value="0,0" />
+        <observation name="count" value="3,0" />
+        <observation name="max" value="0,0" />
+        <observation name="min" value="0,0" />
+        <observation name="variance" value="0,0" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:prox_knownElement">
+      <dailyData date="15-11-2018">
+        <observation name="average" value="1,0" />
+        <observation name="count" value="3,0" />
+        <observation name="max" value="1,0" />
+        <observation name="min" value="1,0" />
+        <observation name="variance" value="0,0" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:prox_phpNamespace">
+      <dailyData date="15-11-2018">
+        <observation name="UNDEFINED" value="2,0" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:prox_phpScope">
+      <dailyData date="15-11-2018">
+        <observation name="UNDEFINED" value="2,0" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:prox_sameModule">
+      <dailyData date="15-11-2018">
+        <observation name="average" value="0,0" />
+        <observation name="count" value="3,0" />
+        <observation name="max" value="0,0" />
+        <observation name="min" value="0,0" />
+        <observation name="variance" value="0,0" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:prox_samePsiMember">
+      <dailyData date="15-11-2018">
+        <observation name="average" value="0,0" />
+        <observation name="count" value="3,0" />
+        <observation name="max" value="0,0" />
+        <observation name="min" value="0,0" />
+        <observation name="variance" value="0,0" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:prox_scalaClassObjectWeigher">
+      <dailyData date="15-11-2018">
+        <observation name="UNDEFINED" value="2,0" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:prox_scalaExplicitlyImportedWeigher">
+      <dailyData date="15-11-2018">
+        <observation name="UNDEFINED" value="2,0" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:random">
+      <dailyData date="15-11-2018">
+        <observation name="UNDEFINED" value="2,0" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:sameWords">
+      <dailyData date="15-11-2018">
+        <observation name="average" value="0,0" />
+        <observation name="count" value="3,0" />
+        <observation name="max" value="0,0" />
+        <observation name="min" value="0,0" />
+        <observation name="variance" value="0,0" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:scalaSbtDefinitionWeigher">
+      <dailyData date="15-11-2018">
+        <observation name="UNDEFINED" value="2,0" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:stats">
+      <dailyData date="15-11-2018">
+        <observation name="average" value="9997,0" />
+        <observation name="count" value="3,0" />
+        <observation name="max" value="9997,0" />
+        <observation name="min" value="9997,0" />
+        <observation name="variance" value="0,0" />
+      </dailyData>
+    </factor>
+    <factor id="itemPosition">
+      <dailyData date="15-11-2018">
+        <observation name="0" value="1,0" />
+        <observation name="1" value="1,0" />
+      </dailyData>
+    </factor>
+    <factor id="mnemonicsUsage">
+      <dailyData date="15-11-2018">
+        <observation name="total" value="1,0" />
+        <observation name="withMnemonics" value="0,0" />
+      </dailyData>
+    </factor>
+    <factor id="prefixLength">
+      <dailyData date="15-11-2018">
+        <observation name="1" value="1,0" />
+        <observation name="3" value="1,0" />
+      </dailyData>
+    </factor>
+    <factor id="timeBetweenTyping">
+      <dailyData date="15-11-2018">
+        <observation name="average" value="541,0" />
+        <observation name="count" value="1,0" />
+      </dailyData>
+    </factor>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local" currentWorkingDirectory="$PROJECT_DIR$" commandHistoryFileName="history-3" />
+    </option>
+  </component>
+</project>

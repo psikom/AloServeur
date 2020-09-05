@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FUSProjectUsageTrigger">
+    <session id="293648386">
+      <usages-collector id="statistics.lifecycle.project">
+        <usage id="project.opened" value="1" />
+        <usage id="project.open.time.1" value="1" />
+        <usage id="project.closed" value="1" />
+      </usages-collector>
+      <usages-collector id="statistics.terminal">
+        <usage id="local.exec" value="1">
+          <context>
+            <entry key="data_1" value="Linux" />
+            <entry key="data_2" value="Linux 4.4.0-138-generic" />
+            <entry key="data_3" value="bash" />
+          </context>
+        </usage>
+      </usages-collector>
+      <usages-collector id="statistics.build.maven.actions">
+        <usage id="RunBuildAction" value="2">
+          <context>
+            <entry key="data_1" value="from." />
+            <entry key="data_2" value="fromContextMenu.false" />
+          </context>
+        </usage>
+      </usages-collector>
+      <usages-collector id="statistics.run.configuration.start">
+        <usage id="MavenRunConfiguration" value="2">
+          <context>
+            <entry key="data_1" value="Run" />
+          </context>
+        </usage>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <usage id="XML" value="1" />
+      </usages-collector>
+    </session>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local" commandHistoryFileName="history-10" />
+    </option>
+  </component>
+</project>

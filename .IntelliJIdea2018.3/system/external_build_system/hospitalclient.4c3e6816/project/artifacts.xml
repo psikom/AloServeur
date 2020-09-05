@@ -1,0 +1,35 @@
+<component name="ArtifactManager">
+  <artifact type="war" __external-system-id="Maven" name="HospitalClient:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>HospitalClient</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="HospitalClient.war">
+      <element id="artifact" artifact-name="HospitalClient:war exploded" />
+    </root>
+  </artifact>
+  <artifact type="exploded-war" __external-system-id="Maven" name="HospitalClient:war exploded">
+    <output-path>$PROJECT_DIR$/target/HospitalClient</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <exploded>true</exploded>
+        <module>HospitalClient</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="HospitalClient" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/target/HospitalClient/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="HospitalClient/web/Web" />
+    </root>
+  </artifact>
+</component>

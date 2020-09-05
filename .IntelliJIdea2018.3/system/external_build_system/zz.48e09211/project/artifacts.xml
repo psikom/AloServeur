@@ -1,0 +1,35 @@
+<component name="ArtifactManager">
+  <artifact type="war" __external-system-id="Maven" name="zz:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>zz</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="zz.war">
+      <element id="artifact" artifact-name="zz:war exploded" />
+    </root>
+  </artifact>
+  <artifact type="exploded-war" __external-system-id="Maven" name="zz:war exploded">
+    <output-path>$PROJECT_DIR$/target/zz</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <exploded>true</exploded>
+        <module>zz</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="zz" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/target/zz/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="zz/web/Web" />
+    </root>
+  </artifact>
+</component>

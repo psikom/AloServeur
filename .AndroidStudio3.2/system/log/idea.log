@@ -1,0 +1,249 @@
+2019-01-21 23:49:52,320 [d thread 5]   WARN - ect.sync.idea.ProjectSetUpTask - Failed to find Build Tools revision 27.0.3 
+2019-01-21 23:49:52,345 [d thread 5]   INFO - e.project.sync.GradleSyncState - Gradle sync failed: Failed to find Build Tools revision 27.0.3
+
+Consult IDE log for more details (Help | Show Log) (9 m 10 s 172 ms) 
+2019-01-21 23:49:52,605 [e-1136-b06]   INFO - idea.project.IndexingSuspender - Consuming IndexingSuspender deactivation event: SYNC_FINISHED 
+2019-01-21 23:49:52,610 [e-1136-b06]   INFO - idea.project.IndexingSuspender - Finishing batch update for project: Project '/home/hatem/Bureau/source' source 
+2019-01-21 23:49:54,879 [d thread 4]   INFO - .diagnostic.PerformanceWatcher - Indexable file iteration took 552422ms; general responsiveness: ok; EDT responsiveness: 2/552 sluggish, 3/552 very slow 
+2019-01-21 23:49:54,881 [d thread 4]   INFO - indexing.UnindexedFilesUpdater - Unindexed files update started: 1645 files to update 
+2019-01-21 23:49:59,958 [d thread 4]   INFO - .diagnostic.PerformanceWatcher - Unindexed files update took 5077ms; general responsiveness: ok; EDT responsiveness: ok 
+2019-01-21 23:49:59,974 [d thread 4]   INFO -       #com.jetbrains.cidr.lang - Clearing symbols finished in 0,012 s. 
+2019-01-21 23:50:00,069 [d thread 4]   INFO -       #com.jetbrains.cidr.lang - Building symbols in FAST mode, 0 source files from total 0 project files 
+2019-01-21 23:50:00,073 [d thread 4]   INFO -       #com.jetbrains.cidr.lang - Loading symbols finished in 0,099 s. 
+2019-01-21 23:50:00,099 [d thread 4]   INFO -       #com.jetbrains.cidr.lang - Loading Header Maps finished in 0,025 s. 
+2019-01-21 23:50:00,132 [d thread 4]   INFO -       #com.jetbrains.cidr.lang - Loading Module Maps finished in 0,032 s. 
+2019-01-21 23:50:00,137 [d thread 4]   INFO -       #com.jetbrains.cidr.lang - Saving Module Maps finished in 0,001 s. 
+2019-01-21 23:50:00,137 [d thread 4]   INFO -       #com.jetbrains.cidr.lang - Loaded 0 tables for 0 files (0 project files) 
+2019-01-21 23:50:00,137 [d thread 4]   INFO -       #com.jetbrains.cidr.lang - Building symbols for 0 source files 
+2019-01-21 23:50:00,146 [d thread 4]   INFO -       #com.jetbrains.cidr.lang - Building symbols for 0 unused headers 
+2019-01-21 23:50:00,147 [d thread 4]   INFO -       #com.jetbrains.cidr.lang - Building symbols finished in 0,010 s. 
+2019-01-21 23:50:00,149 [d thread 4]   INFO -       #com.jetbrains.cidr.lang - Saving modified symbols for 0 files (0 tables of total 0) 
+2019-01-21 23:50:00,159 [d thread 4]   INFO -       #com.jetbrains.cidr.lang - Saving symbols finished in 0,010 s. 
+2019-01-21 23:50:00,166 [d thread 4]   INFO - g.FileBasedIndexProjectHandler - Reindexing refreshed files: 996 to update, calculated in 6ms 
+2019-01-21 23:50:01,139 [d thread 4]   INFO - .diagnostic.PerformanceWatcher - Reindexing refreshed files took 973ms; general responsiveness: ok; EDT responsiveness: ok 
+2019-01-21 23:50:01,153 [d thread 4]   INFO - CompilerWorkspaceConfiguration - Available processors: 4 
+2019-01-21 23:50:01,573 [e-1136-b06]   INFO - tartup.impl.StartupManagerImpl - Some post-startup activities freeze UI for noticeable time. Please consider making them DumbAware to do them in background under modal progress, or just making them faster to speed up project opening. 
+2019-01-21 23:50:01,573 [e-1136-b06]   INFO - tartup.impl.StartupManagerImpl - ProjectInspectionProfileStartUpActivity run in 419ms on UI thread 
+2019-01-21 23:50:02,195 [e-1136-b06]   INFO - j.ide.ui.OptionsTopHitProvider - 496 ms spent to cache options in project 
+2019-01-21 23:50:27,137 [d thread 6]   INFO - s.RepoProgressIndicatorAdapter - Parsing /home/hatem/Android/Sdk/build-tools/28.0.3/package.xml 
+2019-01-21 23:50:27,149 [d thread 6]   INFO - s.RepoProgressIndicatorAdapter - Parsing /home/hatem/Android/Sdk/emulator/package.xml 
+2019-01-21 23:50:27,155 [d thread 6]   INFO - s.RepoProgressIndicatorAdapter - Parsing /home/hatem/Android/Sdk/extras/android/m2repository/package.xml 
+2019-01-21 23:50:27,161 [d thread 6]   INFO - s.RepoProgressIndicatorAdapter - Parsing /home/hatem/Android/Sdk/extras/google/m2repository/package.xml 
+2019-01-21 23:50:27,190 [d thread 6]   INFO - s.RepoProgressIndicatorAdapter - Parsing /home/hatem/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/package.xml 
+2019-01-21 23:50:27,196 [d thread 6]   INFO - s.RepoProgressIndicatorAdapter - Parsing /home/hatem/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout/1.0.2/package.xml 
+2019-01-21 23:50:27,202 [d thread 6]   INFO - s.RepoProgressIndicatorAdapter - Parsing /home/hatem/Android/Sdk/patcher/v4/package.xml 
+2019-01-21 23:50:27,208 [d thread 6]   INFO - s.RepoProgressIndicatorAdapter - Parsing /home/hatem/Android/Sdk/platform-tools/package.xml 
+2019-01-21 23:50:27,214 [d thread 6]   INFO - s.RepoProgressIndicatorAdapter - Parsing /home/hatem/Android/Sdk/platforms/android-28/package.xml 
+2019-01-21 23:50:27,220 [d thread 6]   INFO - s.RepoProgressIndicatorAdapter - Parsing /home/hatem/Android/Sdk/sources/android-28/package.xml 
+2019-01-21 23:50:27,227 [d thread 6]   INFO - s.RepoProgressIndicatorAdapter - Parsing /home/hatem/Android/Sdk/system-images/android-28/google_apis_playstore/x86/package.xml 
+2019-01-21 23:50:27,235 [d thread 6]   INFO - s.RepoProgressIndicatorAdapter - Parsing /home/hatem/Android/Sdk/tools/package.xml 
+2019-01-21 23:50:27,246 [d thread 6]   WARN - ess.util.ProgressIndicatorBase - This progress indicator is indeterminate, this may lead to visual inconsistency. Please call setIndeterminate(false) before you start progress. 
+2019-01-21 23:50:27,247 [d thread 6]   INFO - s.RepoProgressIndicatorAdapter - Downloading https://dl.google.com/android/repository/repository2-1.xml 
+2019-01-21 23:50:28,720 [d thread 6]   INFO - s.RepoProgressIndicatorAdapter - Downloading file:/home/hatem/Bureau/android-studio/plugins/sdk-updates/offline-repo/offline-repo.xml 
+2019-01-21 23:50:28,730 [d thread 6]   INFO - s.RepoProgressIndicatorAdapter - Downloading https://dl.google.com/android/repository/sys-img/android/sys-img2-1.xml 
+2019-01-21 23:50:29,619 [d thread 6]   INFO - s.RepoProgressIndicatorAdapter - Downloading https://dl.google.com/android/repository/sys-img/android-wear/sys-img2-1.xml 
+2019-01-21 23:50:30,345 [d thread 6]   INFO - s.RepoProgressIndicatorAdapter - Downloading https://dl.google.com/android/repository/sys-img/android-wear-cn/sys-img2-1.xml 
+2019-01-21 23:50:31,428 [d thread 6]   INFO - s.RepoProgressIndicatorAdapter - Downloading https://dl.google.com/android/repository/sys-img/android-tv/sys-img2-1.xml 
+2019-01-21 23:50:32,132 [d thread 6]   INFO - s.RepoProgressIndicatorAdapter - Downloading https://dl.google.com/android/repository/sys-img/google_apis/sys-img2-1.xml 
+2019-01-21 23:50:32,643 [d thread 6]   INFO - s.RepoProgressIndicatorAdapter - Downloading https://dl.google.com/android/repository/sys-img/google_apis_playstore/sys-img2-1.xml 
+2019-01-21 23:50:33,053 [d thread 6]   INFO - s.RepoProgressIndicatorAdapter - Downloading https://dl.google.com/android/repository/addon2-1.xml 
+2019-01-21 23:50:33,631 [d thread 6]   INFO - s.RepoProgressIndicatorAdapter - Downloading https://dl.google.com/android/repository/glass/addon2-1.xml 
+2019-01-21 23:50:34,005 [d thread 6]   INFO - s.RepoProgressIndicatorAdapter - Downloading https://dl.google.com/android/repository/extras/intel/addon2-1.xml 
+2019-01-21 23:50:38,171 [d thread 6]   INFO - ectedPackagesStep$CustomLogger - Packages to install:  
+2019-01-21 23:50:38,172 [d thread 6]   INFO - ectedPackagesStep$CustomLogger - - Android SDK Build-Tools 27.0.3 (build-tools;27.0.3) 
+2019-01-21 23:50:38,181 [d thread 6]   INFO - ectedPackagesStep$CustomLogger - 
+ 
+2019-01-21 23:50:38,185 [d thread 6]   INFO - ectedPackagesStep$CustomLogger - Preparing "Install Android SDK Build-Tools 27.0.3 (revision: 27.0.3)". 
+2019-01-21 23:50:38,192 [d thread 6]   INFO - ectedPackagesStep$CustomLogger - Downloading https://dl.google.com/android/repository/build-tools_r27.0.3-linux.zip 
+2019-01-21 23:54:32,561 [d thread 2]   INFO - agnostic.FrequentEventDetector - Too many events posted, #1. Event: java.awt.event.InvocationEvent[INVOCATION_DEFAULT,runnable=com.android.tools.idea.sdk.wizard.InstallSelectedPackagesStep$CustomLogger$$Lambda$1870/1282753654@5b93d99,notifier=null,catchExceptions=false,when=1548111272559] on sun.awt.X11.XToolkit@5e1fcbc0
+java.lang.Throwable
+	at com.intellij.openapi.diagnostic.FrequentEventDetector.getMessageOnEvent(FrequentEventDetector.java:79)
+	at com.intellij.ide.IdeEventQueue.doPostEvent(IdeEventQueue.java:1229)
+	at com.intellij.ide.IdeEventQueue.postEvent(IdeEventQueue.java:1137)
+	at java.awt.EventQueue.invokeLater(EventQueue.java:1272)
+	at javax.swing.SwingUtilities.invokeLater(SwingUtilities.java:1290)
+	at com.intellij.util.ui.EdtInvocationManager$SwingEdtInvocationManager.invokeLater(EdtInvocationManager.java:64)
+	at com.intellij.util.ui.UIUtil.invokeLaterIfNeeded(UIUtil.java:2889)
+	at com.android.tools.idea.sdk.wizard.InstallSelectedPackagesStep$CustomLogger.setFraction(InstallSelectedPackagesStep.java:310)
+	at com.android.repository.api.DelegatingProgressIndicator.lambda$setFraction$4(DelegatingProgressIndicator.java:78)
+	at java.util.concurrent.ConcurrentHashMap$KeySetView.forEach(ConcurrentHashMap.java:4649)
+	at com.android.repository.api.DelegatingProgressIndicator.setFraction(DelegatingProgressIndicator.java:78)
+	at com.android.repository.api.ProgressIndicator$1.setFraction(ProgressIndicator.java:132)
+	at com.android.repository.api.DelegatingProgressIndicator.lambda$setFraction$4(DelegatingProgressIndicator.java:78)
+	at java.util.concurrent.ConcurrentHashMap$KeySetView.forEach(ConcurrentHashMap.java:4649)
+	at com.android.repository.api.DelegatingProgressIndicator.setFraction(DelegatingProgressIndicator.java:78)
+	at com.android.repository.api.DelegatingProgressIndicator.lambda$setFraction$4(DelegatingProgressIndicator.java:78)
+	at java.util.concurrent.ConcurrentHashMap$KeySetView.forEach(ConcurrentHashMap.java:4649)
+	at com.android.repository.api.DelegatingProgressIndicator.setFraction(DelegatingProgressIndicator.java:78)
+	at com.android.repository.api.ProgressIndicator$1.setFraction(ProgressIndicator.java:132)
+	at com.android.repository.util.InstallerUtil.unzip(InstallerUtil.java:154)
+	at com.android.repository.impl.installer.BasicInstaller.doPrepare(BasicInstaller.java:83)
+	at com.android.repository.impl.installer.AbstractPackageOperation.prepare(AbstractPackageOperation.java:312)
+	at com.android.tools.idea.sdk.wizard.InstallTask.preparePackages(InstallTask.java:237)
+	at com.android.tools.idea.sdk.wizard.InstallTask.run(InstallTask.java:115)
+	at com.intellij.openapi.progress.impl.CoreProgressManager$TaskRunnable.run(CoreProgressManager.java:750)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.lambda$runProcess$1(CoreProgressManager.java:157)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.registerIndicatorAndRun(CoreProgressManager.java:580)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.executeProcessUnderProgress(CoreProgressManager.java:525)
+	at com.intellij.openapi.progress.impl.ProgressManagerImpl.executeProcessUnderProgress(ProgressManagerImpl.java:85)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.runProcess(CoreProgressManager.java:144)
+	at com.intellij.openapi.progress.impl.CoreProgressManager$4.run(CoreProgressManager.java:395)
+	at com.intellij.openapi.application.impl.ApplicationImpl$1.run(ApplicationImpl.java:305)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+ 
+2019-01-21 23:54:33,759 [d thread 6]   INFO - ectedPackagesStep$CustomLogger - "Install Android SDK Build-Tools 27.0.3 (revision: 27.0.3)" ready. 
+2019-01-21 23:54:33,761 [d thread 6]   INFO - ectedPackagesStep$CustomLogger - Installing Android SDK Build-Tools 27.0.3 in /home/hatem/Android/Sdk/build-tools/27.0.3 
+2019-01-21 23:54:33,770 [d thread 6]   INFO - ectedPackagesStep$CustomLogger - "Install Android SDK Build-Tools 27.0.3 (revision: 27.0.3)" complete. 
+2019-01-21 23:54:33,964 [d thread 6]   INFO - ectedPackagesStep$CustomLogger - "Install Android SDK Build-Tools 27.0.3 (revision: 27.0.3)" finished. 
+2019-01-22 00:01:36,980 [e-1136-b06]   INFO - idea.project.IndexingSuspender - Consuming IndexingSuspender activation event: SYNC_TASK_CREATED 
+2019-01-22 00:01:37,004 [e-1136-b06]   INFO - e.project.sync.GradleSyncState - Started sync with Gradle for project 'source'. 
+2019-01-22 00:01:37,010 [e-1136-b06]   INFO - idea.project.IndexingSuspender - Consuming IndexingSuspender activation event: SYNC_STARTED 
+2019-01-22 00:01:37,010 [e-1136-b06]   INFO - idea.project.IndexingSuspender - Starting batch update for project: Project '/home/hatem/Bureau/source' source 
+2019-01-22 00:01:37,339 [ thread 13]   INFO - s.plugins.gradle.GradleManager - Instructing gradle to use java from /home/hatem/Bureau/android-studio/jre 
+2019-01-22 00:01:37,340 [ thread 13]   INFO - s.plugins.gradle.GradleManager - Instructing gradle to use java from /home/hatem/Bureau/android-studio/jre 
+2019-01-22 00:01:37,386 [ thread 13]   INFO - xecution.GradleExecutionHelper - Passing command-line args to Gradle Tooling API: -Didea.version=3.2 -Djava.awt.headless=true -Pandroid.injected.build.model.only=true -Pandroid.injected.build.model.only.advanced=true -Pandroid.injected.invoked.from.ide=true -Pandroid.injected.build.model.only.versioned=3 -Pandroid.injected.studio.version=3.2.1.0 -Pandroid.builder.sdkDownload=false --init-script /tmp/ijinit.gradle 
+2019-01-22 00:03:45,943 [ thread 13]   INFO - e.project.sync.GradleSyncState - Started setup of project 'source'. 
+2019-01-22 00:03:45,944 [e-1136-b06]   INFO - idea.project.IndexingSuspender - Consuming IndexingSuspender activation event: SETUP_STARTED 
+2019-01-22 00:03:47,383 [e-1136-b06]   INFO - ule.android.SdkModuleSetupStep - Set Android SDK 'Android API 28 Platform' (/home/hatem/Android/Sdk) to module 'app' 
+2019-01-22 00:03:49,262 [d thread 2]   INFO - etup.post.PluginVersionUpgrade - Gradle model version: 3.1.3, recommended version for IDE: 3.2.1 
+2019-01-22 00:05:02,859 [d thread 2]   INFO - ild.invoker.GradleBuildInvoker - About to execute Gradle tasks: [:app:generateDebugSources] 
+2019-01-22 00:05:02,864 [e-1136-b06]   INFO - idea.project.IndexingSuspender - Consuming IndexingSuspender activation event: BUILD_EXECUTOR_CREATED 
+2019-01-22 00:05:02,868 [d thread 2]   INFO - e.project.sync.GradleSyncState - Gradle sync finished in 3 m 25 s 863 ms 
+2019-01-22 00:05:02,872 [ thread 17]   INFO - s.plugins.gradle.GradleManager - Instructing gradle to use java from /home/hatem/Bureau/android-studio/jre 
+2019-01-22 00:05:02,898 [ thread 17]   INFO - ild.invoker.GradleBuildInvoker - Build command line options: [-Pandroid.injected.invoked.from.ide=true, -Pandroid.injected.generateSourcesOnly=true] 
+2019-01-22 00:05:02,920 [ thread 17]   INFO - xecution.GradleExecutionHelper - Passing command-line args to Gradle Tooling API: -Pandroid.injected.invoked.from.ide=true -Pandroid.injected.generateSourcesOnly=true 
+2019-01-22 00:05:02,947 [e-1136-b06]   INFO - idea.project.IndexingSuspender - Consuming IndexingSuspender activation event: BUILD_STARTED 
+2019-01-22 00:05:03,158 [e-1136-b06]   INFO - idea.project.IndexingSuspender - Consuming IndexingSuspender deactivation event: SYNC_FINISHED 
+2019-01-22 00:05:03,159 [e-1136-b06]   INFO - idea.project.IndexingSuspender - IndexingSuspender deactivation event received and ignored: SYNC_FINISHED 
+2019-01-22 00:05:21,301 [e-1136-b06]   INFO - idea.project.IndexingSuspender - Consuming IndexingSuspender deactivation event: BUILD_FINISHED 
+2019-01-22 00:05:21,301 [e-1136-b06]   INFO - idea.project.IndexingSuspender - Finishing batch update for project: Project '/home/hatem/Bureau/source' source 
+2019-01-22 00:05:22,001 [cessToken]]   INFO - pl.ProjectRootManagerComponent - project roots have changed 
+2019-01-22 00:05:22,030 [ thread 12]   INFO - g.FileBasedIndexProjectHandler - Reindexing refreshed files: 0 to update, calculated in 1ms 
+2019-01-22 00:05:22,033 [e-1136-b06]   INFO - ild.invoker.GradleBuildInvoker - Gradle build finished in 19 s 158 ms 
+2019-01-22 00:05:22,067 [e-1136-b06]   INFO - pl.ProjectRootManagerComponent - project roots have changed 
+2019-01-22 00:05:22,326 [ thread 12]   INFO -       #com.jetbrains.cidr.lang - Clearing symbols finished in 0,242 s. 
+2019-01-22 00:05:22,863 [ thread 12]   INFO -       #com.jetbrains.cidr.lang - Building symbols in FAST mode, 0 source files from total 0 project files 
+2019-01-22 00:05:22,868 [ thread 12]   INFO -       #com.jetbrains.cidr.lang - Loading symbols finished in 0,542 s. 
+2019-01-22 00:05:22,870 [ thread 12]   INFO -       #com.jetbrains.cidr.lang - Loading Header Maps finished in 0,001 s. 
+2019-01-22 00:05:22,873 [ thread 12]   INFO -       #com.jetbrains.cidr.lang - Loading Module Maps finished in 0,003 s. 
+2019-01-22 00:05:22,876 [ thread 12]   INFO -       #com.jetbrains.cidr.lang - Saving Module Maps finished in 0,003 s. 
+2019-01-22 00:05:22,876 [ thread 12]   INFO -       #com.jetbrains.cidr.lang - Loaded 0 tables for 0 files (0 project files) 
+2019-01-22 00:05:22,878 [ thread 12]   INFO -       #com.jetbrains.cidr.lang - Building symbols for 0 source files 
+2019-01-22 00:05:22,882 [ thread 12]   INFO -       #com.jetbrains.cidr.lang - Building symbols for 0 unused headers 
+2019-01-22 00:05:22,883 [ thread 12]   INFO -       #com.jetbrains.cidr.lang - Building symbols finished in 0,005 s. 
+2019-01-22 00:05:22,894 [ thread 12]   INFO -       #com.jetbrains.cidr.lang - Saving modified symbols for 0 files (0 tables of total 0) 
+2019-01-22 00:05:22,897 [ thread 12]   INFO -       #com.jetbrains.cidr.lang - Saving symbols finished in 0,002 s. 
+2019-01-22 00:05:22,975 [e-1136-b06]   INFO - pl.ProjectRootManagerComponent - project roots have changed 
+2019-01-22 00:05:25,465 [ thread 12]   INFO -       #com.jetbrains.cidr.lang - Clearing symbols finished in 0,924 s. 
+2019-01-22 00:05:25,467 [ thread 12]   INFO -       #com.jetbrains.cidr.lang - Building symbols in FAST mode, 0 source files from total 0 project files 
+2019-01-22 00:05:25,468 [ thread 12]   INFO -       #com.jetbrains.cidr.lang - Loading symbols finished in 0,003 s. 
+2019-01-22 00:05:25,469 [ thread 12]   INFO -       #com.jetbrains.cidr.lang - Loading Header Maps finished in 0,001 s. 
+2019-01-22 00:05:25,471 [ thread 12]   INFO -       #com.jetbrains.cidr.lang - Loading Module Maps finished in 0,002 s. 
+2019-01-22 00:05:25,471 [ thread 12]   INFO -       #com.jetbrains.cidr.lang - Saving Module Maps finished in 0,000 s. 
+2019-01-22 00:05:25,471 [ thread 12]   INFO -       #com.jetbrains.cidr.lang - Loaded 0 tables for 0 files (0 project files) 
+2019-01-22 00:05:25,471 [ thread 12]   INFO -       #com.jetbrains.cidr.lang - Building symbols for 0 source files 
+2019-01-22 00:05:25,472 [ thread 12]   INFO -       #com.jetbrains.cidr.lang - Building symbols for 0 unused headers 
+2019-01-22 00:05:25,475 [ thread 12]   INFO -       #com.jetbrains.cidr.lang - Building symbols finished in 0,004 s. 
+2019-01-22 00:05:25,486 [ thread 12]   INFO -       #com.jetbrains.cidr.lang - Saving modified symbols for 0 files (0 tables of total 0) 
+2019-01-22 00:05:25,489 [ thread 12]   INFO -       #com.jetbrains.cidr.lang - Saving symbols finished in 0,003 s. 
+2019-01-22 00:05:26,494 [ thread 12]   INFO - g.FileBasedIndexProjectHandler - Reindexing refreshed files: 35 to update, calculated in 136ms 
+2019-01-22 00:05:26,719 [ thread 12]   INFO - .diagnostic.PerformanceWatcher - Reindexing refreshed files took 224ms; general responsiveness: ok; EDT responsiveness: ok 
+2019-01-22 00:05:27,047 [ thread 12]   INFO - .diagnostic.PerformanceWatcher - Pushing properties took 327ms; general responsiveness: ok; EDT responsiveness: ok 
+2019-01-22 00:05:29,817 [ thread 12]   INFO - .diagnostic.PerformanceWatcher - Indexable file iteration took 2770ms; general responsiveness: ok; EDT responsiveness: ok 
+2019-01-22 00:05:29,827 [ thread 12]   INFO - indexing.UnindexedFilesUpdater - Unindexed files update started: 22718 files to update 
+2019-01-22 00:05:59,528 [ thread 12]   INFO - .diagnostic.PerformanceWatcher - Unindexed files update took 29701ms; general responsiveness: ok; EDT responsiveness: ok 
+2019-01-22 00:05:59,529 [ thread 12]   INFO - g.FileBasedIndexProjectHandler - Reindexing refreshed files: 0 to update, calculated in 0ms 
+2019-01-22 00:06:05,454 [ thread 16]   INFO - attrs.AttributeDefinitionsImpl - Found tag with unknown parent: AndroidManifest.AndroidManifestSupportsInput 
+2019-01-22 00:06:05,454 [ thread 16]   INFO - attrs.AttributeDefinitionsImpl - Found tag with unknown parent: AndroidManifest.AndroidManifestCompatibleScreens 
+2019-01-22 00:06:20,389 [J pool 2/3]   INFO - attrs.AttributeDefinitionsImpl - Found tag with unknown parent: AndroidManifest.AndroidManifestCompatibleScreens 
+2019-01-22 00:06:20,395 [J pool 2/3]   INFO - attrs.AttributeDefinitionsImpl - Found tag with unknown parent: AndroidManifest.AndroidManifestSupportsInput 
+2019-01-22 00:06:20,926 [e-1136-b06]   INFO - ojectView.impl.ProjectViewTree - getToggleClickCount: -1 for com.intellij.ide.projectView.impl.nodes.ClassTreeNode 
+2019-01-22 00:06:46,579 [e-1136-b06]   INFO - idea.stats.RunStatsServiceImpl - notifyRunStarted: myRun=null, packageName=com.success.dev.source, isDebuggable=true, forceColdSwap=true, instanceRunEnabled=true 
+2019-01-22 00:06:46,860 [ thread 15]   INFO - roid.tools.idea.adb.AdbService - Initializing adb using: /home/hatem/Android/Sdk/platform-tools/adb 
+2019-01-22 00:06:47,117 [err reader]   WARN -            #com.android.ddmlib - * daemon not running; starting now at tcp:5037 
+2019-01-22 00:06:50,150 [err reader]   WARN -            #com.android.ddmlib - * daemon started successfully 
+2019-01-22 00:06:50,448 [ thread 15]   INFO - roid.tools.idea.adb.AdbService - Successfully connected to adb 
+2019-01-22 00:06:50,449 [e-1136-b06]   INFO - ditor.DeployTargetPickerDialog - Successfully obtained debug bridge 
+2019-01-22 00:06:53,042 [e-1136-b06]   INFO - idea.stats.RunStatsServiceImpl - notifyEmulatorStarting: myRun=Run(runId=b1d344a7-e40a-469f-a2f6-f6e972371d73, packageName=com.success.dev.source, runType=DEBUG, startTimestamp=1548112006613) 
+2019-01-22 00:06:53,595 [e-1136-b06]   INFO - idea.stats.RunStatsServiceImpl - notifyStudioSectionFinished: myRun=Run(runId=b1d344a7-e40a-469f-a2f6-f6e972371d73, packageName=com.success.dev.source, runType=DEBUG, startTimestamp=1548112006613), isSuccessful=true, isInstantRun=true, userSelectedDeployTarget=false 
+2019-01-22 00:06:53,890 [ thread 12]   INFO - ools.idea.fd.InstantRunBuilder - BuildCause: NO_DEVICE, BuildMode: FULL 
+2019-01-22 00:06:53,892 [ thread 12]   INFO - idea.stats.RunStatsServiceImpl - notifyGradleStarted: myRun=Run(runId=b1d344a7-e40a-469f-a2f6-f6e972371d73, packageName=com.success.dev.source, runType=DEBUG, startTimestamp=1548112006613), buildMode=null 
+2019-01-22 00:06:53,900 [e-1136-b06]   INFO - ild.invoker.GradleBuildInvoker - About to execute Gradle tasks: [:app:assembleDebug] 
+2019-01-22 00:06:53,900 [e-1136-b06]   INFO - idea.project.IndexingSuspender - Consuming IndexingSuspender activation event: BUILD_EXECUTOR_CREATED 
+2019-01-22 00:06:53,905 [ thread 21]   INFO - s.plugins.gradle.GradleManager - Instructing gradle to use java from /home/hatem/Bureau/android-studio/jre 
+2019-01-22 00:06:53,910 [ thread 21]   INFO - ild.invoker.GradleBuildInvoker - Build command line options: [-Pandroid.injected.invoked.from.ide=true, -Pandroid.injected.build.api=28, -Pandroid.injected.build.density=420dpi, -Pandroid.injected.build.abi=x86, -Pandroid.injected.restrict.variant.name=debug, -Pandroid.injected.restrict.variant.project=:app, -Pandroid.optional.compilation=INSTANT_DEV,FULL_APK, -Pandroid.injected.coldswap.mode=MULTIAPK, --no-build-cache] 
+2019-01-22 00:06:53,913 [e-1136-b06]   INFO - idea.project.IndexingSuspender - Consuming IndexingSuspender activation event: BUILD_STARTED 
+2019-01-22 00:06:53,913 [e-1136-b06]   INFO - idea.project.IndexingSuspender - Starting batch update for project: Project '/home/hatem/Bureau/source' source 
+2019-01-22 00:06:53,917 [ thread 21]   INFO - xecution.GradleExecutionHelper - Passing command-line args to Gradle Tooling API: -Pandroid.injected.invoked.from.ide=true -Pandroid.injected.build.api=28 -Pandroid.injected.build.density=420dpi -Pandroid.injected.build.abi=x86 -Pandroid.injected.restrict.variant.name=debug -Pandroid.injected.restrict.variant.project=:app -Pandroid.optional.compilation=INSTANT_DEV,FULL_APK -Pandroid.injected.coldswap.mode=MULTIAPK --no-build-cache 
+2019-01-22 00:09:51,320 [ thread 15]   INFO - idea.stats.RunStatsServiceImpl - notifyEmulatorStarted: myRun=Run(runId=b1d344a7-e40a-469f-a2f6-f6e972371d73, packageName=com.success.dev.source, runType=DEBUG, startTimestamp=1548112006613), isSuccessful=true 
+2019-01-22 00:11:36,455 [ thread 31]   INFO - bstractProjectsUsagesCollector - Please change caller according to com.intellij.openapi.project.IndexNotReadyException documentation 
+com.intellij.openapi.project.IndexNotReadyException: Please change caller according to com.intellij.openapi.project.IndexNotReadyException documentation
+	at com.intellij.openapi.project.IndexNotReadyException.create(IndexNotReadyException.java:77)
+	at com.intellij.util.indexing.FileBasedIndexImpl.handleDumbMode(FileBasedIndexImpl.java:774)
+	at com.intellij.util.indexing.FileBasedIndexImpl.ensureUpToDate(FileBasedIndexImpl.java:723)
+	at com.intellij.util.indexing.FileBasedIndexImpl.ensureUpToDate(FileBasedIndexImpl.java:706)
+	at com.intellij.psi.stubs.StubIndexImpl.doProcessStubs(StubIndexImpl.java:334)
+	at com.intellij.psi.stubs.StubIndexImpl.processElements(StubIndexImpl.java:310)
+	at com.intellij.psi.stubs.StubIndex.getElements(StubIndex.java:145)
+	at com.intellij.psi.stubs.StubIndex.getElements(StubIndex.java:134)
+	at com.intellij.psi.impl.java.stubs.index.JavaFullClassNameIndex.get(JavaFullClassNameIndex.java:47)
+	at com.intellij.psi.impl.file.impl.JavaFileManagerImpl.doFindClasses(JavaFileManagerImpl.java:96)
+	at com.intellij.psi.impl.file.impl.JavaFileManagerImpl.findClasses(JavaFileManagerImpl.java:83)
+	at com.intellij.psi.impl.PsiElementFinderImpl.findClasses(PsiElementFinderImpl.java:45)
+	at com.intellij.psi.impl.JavaPsiFacadeImpl.findClassesWithoutJvmFacade(JavaPsiFacadeImpl.java:195)
+	at com.intellij.psi.impl.JavaPsiFacadeImpl.findClassesWithJvmFacade(JavaPsiFacadeImpl.java:166)
+	at com.intellij.psi.impl.JavaPsiFacadeImpl.findClasses(JavaPsiFacadeImpl.java:158)
+	at com.intellij.internal.statistic.libraryJar.LibraryJarUsagesCollector.lambda$getProjectUsages$0(LibraryJarUsagesCollector.java:61)
+	at com.intellij.openapi.application.impl.ApplicationImpl.runReadAction(ApplicationImpl.java:902)
+	at com.intellij.internal.statistic.libraryJar.LibraryJarUsagesCollector.getProjectUsages(LibraryJarUsagesCollector.java:56)
+	at com.intellij.internal.statistic.AbstractProjectsUsagesCollector.persistProjectUsages(AbstractProjectsUsagesCollector.java:53)
+	at com.intellij.internal.statistic.ApplicationStatisticsPersistenceComponent.doPersistProjectUsages(ApplicationStatisticsPersistenceComponent.java:200)
+	at com.intellij.internal.statistic.ApplicationStatisticsPersistenceComponent.access$100(ApplicationStatisticsPersistenceComponent.java:36)
+	at com.intellij.internal.statistic.ApplicationStatisticsPersistenceComponent$1.lambda$projectOpened$0(ApplicationStatisticsPersistenceComponent.java:163)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at com.intellij.util.concurrency.SchedulingWrapper$MyScheduledFutureTask.run(SchedulingWrapper.java:228)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+2019-01-22 00:12:57,422 [e-1136-b06]   INFO - idea.project.IndexingSuspender - Consuming IndexingSuspender deactivation event: BUILD_FINISHED 
+2019-01-22 00:12:57,483 [e-1136-b06]   INFO - idea.project.IndexingSuspender - Finishing batch update for project: Project '/home/hatem/Bureau/source' source 
+2019-01-22 00:12:57,484 [ thread 13]   INFO - g.FileBasedIndexProjectHandler - Reindexing refreshed files: 0 to update, calculated in 0ms 
+2019-01-22 00:12:57,504 [e-1136-b06]   INFO - ild.invoker.GradleBuildInvoker - Gradle build finished in 6 m 3 s 582 ms 
+2019-01-22 00:12:58,083 [e-1136-b06]   INFO - pl.ProjectRootManagerComponent - project roots have changed 
+2019-01-22 00:12:58,342 [ thread 12]   INFO - idea.stats.RunStatsServiceImpl - notifyGradleFinished: myRun=Run(runId=b1d344a7-e40a-469f-a2f6-f6e972371d73, packageName=com.success.dev.source, runType=DEBUG, startTimestamp=1548112006613), isSuccessful=true 
+2019-01-22 00:12:58,482 [ thread 12]   INFO - a.gradle.run.MakeBeforeRunTask - Gradle invocation complete, success = true 
+2019-01-22 00:12:59,811 [e-1136-b06]   INFO - pl.ProjectRootManagerComponent - project roots have changed 
+2019-01-22 00:13:00,308 [ thread 12]   INFO -       #com.jetbrains.cidr.lang - Clearing symbols finished in 0,041 s. 
+2019-01-22 00:13:00,309 [ thread 12]   INFO -       #com.jetbrains.cidr.lang - Building symbols in FAST mode, 0 source files from total 0 project files 
+2019-01-22 00:13:00,330 [ thread 12]   INFO -       #com.jetbrains.cidr.lang - Loading symbols finished in 0,022 s. 
+2019-01-22 00:13:00,330 [ thread 12]   INFO -       #com.jetbrains.cidr.lang - Loading Header Maps finished in 0,000 s. 
+2019-01-22 00:13:00,333 [ thread 12]   INFO -       #com.jetbrains.cidr.lang - Loading Module Maps finished in 0,003 s. 
+2019-01-22 00:13:00,335 [ thread 12]   INFO -       #com.jetbrains.cidr.lang - Saving Module Maps finished in 0,002 s. 
+2019-01-22 00:13:00,335 [ thread 12]   INFO -       #com.jetbrains.cidr.lang - Loaded 0 tables for 0 files (0 project files) 
+2019-01-22 00:13:00,338 [ thread 12]   INFO -       #com.jetbrains.cidr.lang - Building symbols for 0 source files 
+2019-01-22 00:13:00,342 [ thread 12]   INFO -       #com.jetbrains.cidr.lang - Building symbols for 0 unused headers 
+2019-01-22 00:13:00,342 [ thread 12]   INFO -       #com.jetbrains.cidr.lang - Building symbols finished in 0,004 s. 
+2019-01-22 00:13:00,346 [ thread 12]   INFO -       #com.jetbrains.cidr.lang - Saving modified symbols for 0 files (0 tables of total 0) 
+2019-01-22 00:13:00,346 [ thread 12]   INFO -       #com.jetbrains.cidr.lang - Saving symbols finished in 0,000 s. 
+2019-01-22 00:13:00,529 [ thread 12]   INFO - .diagnostic.PerformanceWatcher - Pushing properties took 7ms; general responsiveness: ok; EDT responsiveness: ok 
+2019-01-22 00:13:15,934 [ thread 12]   INFO - .diagnostic.PerformanceWatcher - Indexable file iteration took 15404ms; general responsiveness: ok; EDT responsiveness: 1/2 sluggish 
+2019-01-22 00:13:18,543 [ thread 16]   INFO - run.AndroidLaunchTasksProvider - Using debugger: Auto 
+2019-01-22 00:13:19,724 [ thread 16]   INFO - idea.stats.RunStatsServiceImpl - notifyDeployStarted: myRun=Run(runId=b1d344a7-e40a-469f-a2f6-f6e972371d73, packageName=com.success.dev.source, runType=DEBUG, startTimestamp=1548112006613), deployTask=SPLIT_APK_DEPLOY, device=emulator-5554, artifacts=25, isPatchBuild=false, dontKill=false, disabledDynamicFeaturesCount=0 
+2019-01-22 00:13:19,779 [ thread 16]   INFO -                    #InstantRun - $ adb install-multiple -r -t /home/hatem/Bureau/source/app/build/intermediates/resources/instant-run/debug/resources-debug.apk /home/hatem/Bureau/source/app/build/intermediates/split-apk/debug/dep/dependencies.apk /home/hatem/Bureau/source/app/build/intermediates/split-apk/debug/slices/slice_0.apk /home/hatem/Bureau/source/app/build/intermediates/split-apk/debug/slices/slice_1.apk /home/hatem/Bureau/source/app/build/intermediates/split-apk/debug/slices/slice_2.apk /home/hatem/Bureau/source/app/build/intermediates/split-apk/debug/slices/slice_3.apk /home/hatem/Bureau/source/app/build/intermediates/split-apk/debug/slices/slice_4.apk /home/hatem/Bureau/source/app/build/intermediates/split-apk/debug/slices/slice_7.apk /home/hatem/Bureau/source/app/build/intermediates/split-apk/debug/slices/slice_9.apk /home/hatem/Bureau/source/app/build/intermediates/split-apk/debug/slices/slice_8.apk /home/hatem/Bureau/source/app/build/intermediates/split-apk/debug/slices/slice_5.apk /home/hatem/Bureau/source/app/build/intermediates/split-apk/debug/slices/slice_6.apk /home/hatem/Bureau/source/app/build/intermediates/instant-run-apk/debug/app-debug.apk /home/hatem/Bureau/source/F:\source\app\build\intermediates\split-apk\debug\slices\slice_1.apk /home/hatem/Bureau/source/F:\source\app\build\intermediates\split-apk\debug\slices\slice_2.apk /home/hatem/Bureau/source/F:\source\app\build\intermediates\split-apk\debug\slices\slice_4.apk /home/hatem/Bureau/source/F:\source\app\build\intermediates\split-apk\debug\slices\slice_8.apk /home/hatem/Bureau/source/F:\source\app\build\intermediates\split-apk\debug\slices\slice_6.apk /home/hatem/Bureau/source/F:\source\app\build\intermediates\split-apk\debug\dep\dependencies.apk /home/hatem/Bureau/source/F:\source\app\build\intermediates\split-apk\debug\slices\slice_0.apk /home/hatem/Bureau/source/F:\source\app\build\intermediates\split-apk\debug\slices\slice_3.apk /home/hatem/Bureau/source/F:\source\app\build\intermediates\split-apk\debug\slices\slice_9.apk /home/hatem/Bureau/source/F:\source\app\build\intermediates\resources\instant-run\debug\resources-debug.apk /home/hatem/Bureau/source/F:\source\app\build\intermediates\split-apk\debug\slices\slice_5.apk /home/hatem/Bureau/source/F:\source\app\build\intermediates\split-apk\debug\slices\slice_7.apk  
+2019-01-22 00:13:30,371 [ thread 31]   INFO - g.FileBasedIndexProjectHandler - Reindexing refreshed files: 266 to update, calculated in 1659ms 
+2019-01-22 00:13:32,524 [ thread 31]   INFO - .diagnostic.PerformanceWatcher - Reindexing refreshed files took 2153ms; general responsiveness: ok; EDT responsiveness: 1/2 sluggish 
+2019-01-22 00:16:01,868 [notifier64]   WARN - pl.local.NativeFileWatcherImpl - Watcher terminated with exit code 129 
+2019-01-22 00:16:02,433 [notifier64]   INFO - pl.local.NativeFileWatcherImpl - Starting file watcher: /home/hatem/Bureau/android-studio/bin/fsnotifier64 
+2019-01-22 00:16:02,741 [wn tracker]   INFO - il.indexing.FileBasedIndexImpl - START INDEX SHUTDOWN 
+2019-01-22 00:16:04,532 [wn tracker]   INFO - il.indexing.FileBasedIndexImpl - END INDEX SHUTDOWN 
+2019-01-22 00:16:04,532 [wn tracker]   INFO - stubs.SerializationManagerImpl - START StubSerializationManager SHUTDOWN 
+2019-01-22 00:16:04,532 [wn tracker]   INFO - stubs.SerializationManagerImpl - END StubSerializationManager SHUTDOWN 
+2019-01-22 00:16:04,802 [wn tracker]   INFO - newvfs.persistent.PersistentFS - VFS dispose started 
+2019-01-22 00:16:04,819 [wn tracker]   INFO - newvfs.persistent.PersistentFS - VFS dispose completed 
+2019-01-22 00:16:04,819 [wn tracker]   INFO -        #com.intellij.idea.Main - ------------------------------------------------------ IDE SHUTDOWN ------------------------------------------------------ 
+2019-01-22 00:16:05,029 [wn tracker]   INFO - org.jetbrains.io.BuiltInServer - web server stopped 

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FUSProjectUsageTrigger">
+    <session id="-18401635">
+      <usages-collector id="statistics.lifecycle.project">
+        <usage id="project.opened" value="2" />
+        <usage id="project.open.time.5" value="1" />
+        <usage id="project.closed" value="2" />
+        <usage id="project.open.time.13" value="1" />
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <usage id="XML" value="2" />
+        <usage id="JAVA" value="1" />
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <usage id="JAVA" value="2" />
+      </usages-collector>
+    </session>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+</project>

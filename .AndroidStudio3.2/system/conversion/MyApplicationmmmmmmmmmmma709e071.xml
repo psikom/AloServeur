@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversion>
+  <applied-converters>
+    <converter id="android-module-to-java-module" />
+    <converter id="android-native-run-configurations" />
+    <converter id="android-proguard-options" />
+    <converter id="android-sdk-library" />
+    <converter id="groovy-modules-to-facets" />
+    <converter id="groovy-script-run-configurations" />
+    <converter id="junit-to-android-junit-configurations" />
+    <converter id="kotlin-non-jvm-source-roots" />
+    <converter id="remove-java-aware-configurations" />
+  </applied-converters>
+  <project-files>
+    <file path="/home/hatem/Bureau/MyApplicationmmmmmmmmmmm/.idea/codeStyles/Project.xml" timestamp="1547678645000" />
+    <file path="/home/hatem/Bureau/MyApplicationmmmmmmmmmmm/.idea/gradle.xml" timestamp="1547678645000" />
+    <file path="/home/hatem/Bureau/MyApplicationmmmmmmmmmmm/.idea/misc.xml" timestamp="1547678593000" />
+    <file path="/home/hatem/Bureau/MyApplicationmmmmmmmmmmm/.idea/modules.xml" timestamp="1547678593000" />
+    <file path="/home/hatem/Bureau/MyApplicationmmmmmmmmmmm/.idea/runConfigurations.xml" timestamp="1547678593000" />
+    <file path="/home/hatem/Bureau/MyApplicationmmmmmmmmmmm/.idea/workspace.xml" timestamp="1547678645000" />
+    <file path="/home/hatem/Bureau/MyApplicationmmmmmmmmmmm/MyApplicationmmmmmmmmmmm.iml" timestamp="1547678593000" />
+  </project-files>
+</conversion>
+
